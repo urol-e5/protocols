@@ -1,22 +1,22 @@
 ---
 layout: post
-title: Ash Free Dry Weight Protocol
+title: Airbrushing
 date: '2020-01-01'
 categories: Protocols
-tags: ash-free-dry-weight, coral, physiology
-projects: e5, Putnam Lab
+tags: AFDW, coral, physiology
+projects: E5, Putnam Lab
 ---
 
 # Standard protocol for ash-free dry weight 
 
-Original: 20190131 Silbiger lab
-Last Revised: 20200101
+Original: 20190131    
+Last Revised: 20200101  
 
-Contents
-- [**Materials**](#Materials)  
-- [**Protocol**](#Protocol)
-- [**Table**](#Table)
-- [**References**](#References)
+Contents  
+- [**Materials**](#Materials)    
+- [**Protocol**](#Protocol)  
+- [**Table**](#Table)  
+- [**References**](#References)  
  
 1. <a name="Materials"></a> **Materials**
     - 	Aluminum pans
@@ -71,6 +71,24 @@ Ex. 1 | 1.0 | 4.5632 | 4.8005 | 0.237 | 4.7542 | 0.0463 |
     	e75049
     3.  Wall, C. 2015. Ash-free dry weight biomass assay protocol. Dr. Ruth Gates’ Laboratory Hawaii Institute of Marine
     	Biology, University of Hawaii.
+
+
+
+
+
+
+
+
+
+
+
+
+	  
+   
+
+
+
+
 
 
 
