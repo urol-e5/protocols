@@ -9,8 +9,8 @@ projects: e5, Putnam Lab
 
 # Standard protocol for Airbrushing tissue from coral 
 
-Original: 20200101
-Last Revised: 20200101
+Original: 2020-01-01  
+Last Revised: 2020-01-01
 
 Contents  
 - [**Materials**](#Materials)  
@@ -30,12 +30,13 @@ Contents
 2. <a name="Protocol"></a> **Protocol**
 
 
-	1. 	remove coral from dry shipper or freezer 
+	1. Remove coral fragment from dry shipper or freezer 
 	2. Use forceps to place coral in ziplock bag 
-	3. airbrush with ice-cold 1X PBS (pH = 7.4)
-	4. transfer from the bag to a sterile 50mL falcon tube and rinse sides of bag with 1x PBS
-	5. record volume of tissue slurry and store on ice until homogenization
-	6. homogenize slurry for 30 sec using X. 
+	3. Airbrush with ice-cold 1X PBS (pH = 7.4)  
+		• Take care to remove tissue from entire surface area, including deep tissue
+	4. Transfer tissue slurry from the bag to a sterile 50mL falcon tube and rinse sides of bag with 1x PBS, adding rinsate to falcon tube.
+	5. Record total volume of tissue slurry and store on ice until homogenization
+	6. Homogenize slurry for 30 sec using X. 
 	7. Between each sample, clean the forceps and the homogenizer in a 10% bleach solution for 30 seconds, DI wash #1 for 30 seconds, DI wash #2 for 30 seconds, then wipe down with an isopropanol wipe
 
 
