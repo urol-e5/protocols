@@ -31,7 +31,7 @@ Contents
 
 
 	1. Remove coral fragment from dry shipper or freezer 
-	2. Use forceps to place coral in ziplock bag 
+	2. Use forceps to place remainder of coral fragment in ziplock bag 
 	3. Airbrush with ice-cold 1X PBS (pH = 7.4)  
 		• Take care to remove tissue from entire surface area, including deep tissue
 	4. Transfer tissue slurry from the bag to a sterile 50mL falcon tube and rinse sides of bag with 1x PBS, adding rinsate to falcon tube.
@@ -43,6 +43,18 @@ Contents
 [Coral Airbrushing Video](https://www.youtube.com/watch?v=tHlVRHVMQeQ)  
 [![Airbrushing Video](https://img.youtube.com/vi/tHlVRHVMQeQ/default.jpg)](https://www.youtube.com/watch?v=tHlVRHVMQeQ "Airbrushing Video")
 
+3. **e5 downstream assays**
+
+	Homogenized tissue slurry should be aliquoted as follows for these downstream assays:
+	1. Symbiont cell density: 1 mL into 1.5 mL microcentrifuge tube. Proceed with symbiont cell density quantification right away, or store at 4°C
+	2. Chlorophyll content: 1 mL into 1.5 mL microcentrifuge tube. Proceed with chlorophyll assay or store at -20°C.
+	3. Total protein, total antioxidant capacity, and lipid peroxidation assays: 1 mL into 1.5 mL microcentrifuge tube. Proceed with assays or store at -40°C.
+	4. One backup aliquot: 1 mL into 1.5 mL microcentrifuge tube. Store at -40°C.
+	5. Ash-free dry weight: 5 mL into a pre-burned aluminum drying pan (if ready to proceed straight away, otherwise falcon tube of homogenate can be stored at -40°C until ready). 
+	
+
+	
+	
 4. <a name="References"></a> **References**
 
     1.  XXXX
