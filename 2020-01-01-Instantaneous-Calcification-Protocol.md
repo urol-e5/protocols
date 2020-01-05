@@ -46,7 +46,8 @@ Contents
 
 2. <a name="Protocol"></a> **Protocol**
     - 	Fill the extra bin for the source water at least 3/4 of the way full.
-    -  Once flow is stopped and the water source is finalized, take 2 initial water samples in the brown bottle. To take a total alkalinity sample:
+    -  Once flow is stopped and the water source is finalized, measure the temperature, pH, and salinity of the water. 
+    -  Take 2 initial samples of the water source using the brown bottles. To take a total alkalinity sample:
 	    -  Rinse the bottle three times by partially filling it, and dumping the rinse outside of the source water
 	    -  After triple rinsing, completely fill the bottle so that there is no airspace
 	    -  Cap and secure and the water sample with the bottle fully submerged, making sure there are no bubbles in the cap
