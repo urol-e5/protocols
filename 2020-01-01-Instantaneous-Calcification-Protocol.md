@@ -58,11 +58,13 @@ Contents
     -  Record the Start Time for each chamber, as soon as it is plugged.
     - Once the start time is recorded, bring the chambers to the respiration setup and set them in their allocated positions. 
     - Once all chambers are plugged and placed in the respiration setup, set the light levels to ~500 PAR (using Ocean Revive lights this is 65% for both Ch 1 and Ch 2). 
-    - Leave the chambers for ~1 hr.
+    - Leave the chambers for 1 hr (this was done on 20200104).
+    	-On 20200105 we tested 1.5 hours and the signals between 1 hour and 1.5 hours were compared. Since the 1.5 hours signal was much higher we will be running samples from here on out for 1.5 hours
     - Take temperature readings every 10 minutes. 
     - After corals sit for an hour, remove one chamber at a time, recording the End Time when the plugs are removed
     - Unscrew the top cap plug and pour ~50 mL of water into a 150mL opaque collection bottle. Measure and record the temperature, salinity, and pH of this water.
     - Collect the remaining water in its corresponding brown bottle (should be labeled to corresponding coral ID) using the same methods for the initial sample (i.e., triple rinses and filling to minimize air bubbles).
+    	-For this trip we had only one brown bottle per chamber/coral sample. For next trip and future we want water samples in duplicate because there was some variability.
     - Once the chamber is emptied of water, transfer the coral into a prelabeled ziploc or whirl-pak bag and snap freeze in the dry shipper containing liquid nitrogen.
     - Poisoin all brown bottle samples using 75uL of saturated mercuric chloride. Invert the bottles to mix. **Make sure to perform this in the fume hood, wear appropriate PPE, and dispose of all hazardous waste appropriately)**.
 
