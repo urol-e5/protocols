@@ -62,12 +62,13 @@ Contents
 		
 	- Freeze the remainder of the homogenate for Ash-free dry weight: 5 mL into a pre-burned aluminum drying pan (if ready to proceed straight away, otherwise falcon tube of homogenate can be stored at -40°C until ready). 
 	
-![](images/aliquoting_chart.JPG)
+![](images/airbrush_aliquoting.pdf)
 	
 	
 4. <a name="References"></a> **References**
 
     1.  XXXX
+
 
 
 
