@@ -44,23 +44,25 @@ Contents
 [Coral Airbrushing Video](https://www.youtube.com/watch?v=tHlVRHVMQeQ)  
 [![Airbrushing Video](https://img.youtube.com/vi/tHlVRHVMQeQ/default.jpg)](https://www.youtube.com/watch?v=tHlVRHVMQeQ "Airbrushing Video")
 
-3. **e5 downstream assays**
+*****
+*Store homogenized tissues on ice until ready to aliquot for downstream assays*
+*****
 
-	Label four 1.5-mL microcentrifgue tubes for each sample. Aliquot 1 mL into each for: 	
-	1. Symbiont cell density 
-		- Proceed with [symbiont cell density assay](2020-01-01-Cell_Density-Protocol.md) right away, or store at 4°C
-	2. Chlorophyll content
-		- Proceed with [chlorophyll assay](2020-01-01-Chlorophyll-Protocol.md) or store at -20°C.
-	3. Protein
-		- Proceed with [protein assay](2020-01-01-Total-Protein-Protocol.md) or store at -20°C.
-	4. Total antioxidant capacity
-		- Proceed with [total antioxidant capacity assay](2020-01-01-Total-Antioxidant-Capacity-Protocol.md) or store at -40°C.
-	
-	(5. Lipid peroxidation -- in future trips)
-	
-	Freeze the remainder of the homogenate for Ash-free dry weight: 5 mL into a pre-burned aluminum drying pan (if ready to proceed straight away, otherwise falcon tube of homogenate can be stored at -40°C until ready). 
-	
+3. **e5 downstream assays** (see flowchart below)
 
+	- Label four 1.5-mL microcentrifgue tubes for each sample. 
+	- Add 1 mL homogenized tissue blastate to two of the 1.5-mL tubes.
+	- Centrifuge both 1.5-mL tubes at 13,000g for 3 min. 
+	- From one tube, pipet off supernatant (~1mL) and discard.
+		- *This is the chlorophyll assay tube:* Add 1mL acetone to resuspend the symbiont pellet, and place in 4°C fridge in LTER lab. See [chlorophyll assay](2020-01-01-Chlorophyll-Protocol.md) for more detail.
+	- From second tube, pipet off supernatant and transfer to a new labeled 1.5-mL tube. *This supernatant is the host protein/TAC/LPO assay tube:* Immediately place in -40°C until ready to proceed with the [protein assay](2020-01-01-Total-Protein-Protocol.md), [total antioxidant capacity assay](2020-01-01-Total-Antioxidant-Capacity-Protocol.md), and/or lipid peroxidation assay.
+	- To the second symbiont pellet, add 1mL 1xPBS to resuspend pellet. Vortex thoroughly and pipet up and down to fully dissolve pellet. 
+	- Once dissolved, transfer 500 µL to a new labeled 1.5-mL tube. *This is the symbiont protein/TAC/LPO assay tube:* Immediately place in -40°C until ready to proceed with the protein, antioxidant, and/or lipid peroxidation assays (see links above).
+	- The remaining 500 µL of resuspended symbionts in PBS is *the symbiont density assay tube:* Store at 4°C fridge in LTER lab until ready to count cells following the [symbiont density protocol](2020-01-01-Cell_Density-Protocol.md).
+		
+	- Freeze the remainder of the homogenate for Ash-free dry weight: 5 mL into a pre-burned aluminum drying pan (if ready to proceed straight away, otherwise falcon tube of homogenate can be stored at -40°C until ready). 
+	
+![](images/aliquoting_chart.JPG)
 	
 	
 4. <a name="References"></a> **References**
