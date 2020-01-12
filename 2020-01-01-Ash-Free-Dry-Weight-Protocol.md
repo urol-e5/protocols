@@ -24,6 +24,7 @@ Contents
     - 	Muffle furnace (450°C) *(in LTER lab)*
     - 	Analytical balance (0.0001 g) *(in LTER lab)*
     -  15 mL falcon tubes
+    -  5 mL pipet and tips
     -  Centrifuge with rotors for 15 mL falcon tubes *(in LTER lab)*
 
 2. <a name="Protocol"></a> **Protocol**
@@ -44,7 +45,13 @@ Contents
     1. Transfer trays of filled pans to drying oven at 80°C for at least 24 h. (If 80°C oven is not available, use 60°C drying oven).
     2. Weigh dried pans. Should be “at constant weight”. Preliminary steps may be needed to ensure samples have reached a constant weight. Leaving samples in drying oven longer than 24 h may be necessary, and is likely not detrimental.
     1.  After samples have reached a constant weight, weigh pan + dried samples on a 4- decimal scale and record weight (= “D” in Table 1.)
-    1.  After recording the weight of the burned pan + dry tissue (and salts), place in the muffle furnace at 450°C for 4-6 h. Most literature uses a 6h burn period, but in preliminary tests of blastate 4h is sufficient to burn off the well dispersed (high SA of blastate in pans) residue. Oven also stays hot after turning off, so even at 4h (30 ramp up, 30 min ramp down + residual heat in oven…) the oven will be hot for some time.
+    1.  After recording the weight of the burned pan + dry tissue (and salts), place in the muffle furnace at 450°C for 4-6 h. 
+	    - Turn on muffle furnace
+	    - If Run light is on, press once to turn off
+	    - Press Menu: screen should read 'NO PROG'
+	    - Press Up arrow: screen should read 'YES PROG'
+	    - Press Run. If blinking, press Run again.  
+Most literature uses a 6h burn period, but in preliminary tests of blastate 4h is sufficient to burn off the well dispersed (high SA of blastate in pans) residue. Oven also stays hot after turning off, so even at 4h (30 ramp up, 30 min ramp down + residual heat in oven…) the oven will be hot for some time.
 	*NOTE: The organic fraction will burn off at 450°C leaving only salt and inorganics behind. The difference between the dry weight and burned weight is the organic fraction of biomass.*
     1.  Let pans cool and place in desiccator and transport to the scale room. Avoid transporting when warm, it will cause water to adhere to pans.
     1.  Measure weight of burned pan + burned tissue (“D” – “F” in Table 1.). This is the AFDW of the organic fraction
@@ -58,6 +65,10 @@ Contents
 Sample ID | Sample volume (mL) | Burned pan (g) | Burned pan + Dry residue (g) | Dry tissue biomass (g) | Burned pan + burned residue (g) | AFDW (g/mL) |
 Calculations | | | | = D-C | | = (D-F)/B |
 Ex. 1 | 4.0 | 4.5632 | 4.8005 | 0.237 | 4.7542 | 0.011575 |
+
+## Muffle furnace
+![muffle1](images/muffle1.jpg)
+![muffle2](images/muffle2.jpg)
 
 4. <a name="References"></a> **References**
 
