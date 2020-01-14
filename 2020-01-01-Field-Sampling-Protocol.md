@@ -43,7 +43,6 @@ Contents
 2. <a name="Preparations"></a> **Preparations**
     - Prelabel one quart-sized plastic bag (for physiological fragment) for each colony to be sampled with site, date, species, and tag ID.
 	    - *Note: sharpie comes off of plastic bags easily in the water. Consider using bags that have white labeling area, or labeling in multiple places, or using a wax crayon, etc.*
-    - Prelabel two replicate whirlpaks for each colony (same as above) with a sharpie, and place these inside of corresponding quart-size bag
     - Stack all quart-size bags and pierce hole through upper corner of all bags (above seal so they can still be closed and hold water). Pass a zip-tie through the hole such that bags are held together on a spool. Include a small fishing weight on spool as well to make bags negatively buoyant and easier to handle in the water.
     - Allocate specific colonies to be sampled to each sampling team, e.g., the northern half or southern half of colonies for two teams.
 
@@ -55,24 +54,27 @@ Contents
 	- Find and clean off cattle tag/ziptie
 	- Take a closeup photograph of the tag with number clearly visible, then take a photograph of the whole colony with the color standard visible
 	- *Acropora* sampling
-		- Collect ~3" physiological fragment with apical polyp in quart size bag
-		- Collect ~1" molecular fragment 1 with no apical polyp in whirlpak
-		- Collect ~1cm molecular fragment 2 with no apical polyp in whirlpak
+		- Collect ~3" physiological fragment with apical polyp
+		- Collect ~1" molecular fragment 1 with no apical poly
+		- Collect ~1cm molecular fragment 2 with no apical polyp
+		- Place all fragments in quart size bag
 		- *Recommendation: Use bone-cutters to clip one ~5" intact branch with apical polyp, then clip two smaller fragments from base as molecular fragments. Remainder is physiological fragment*
 	- *Pocillopora* sampling
-		- Collect ~3" physiological fragment intact (i.e., only single cut at base) in quart size bag
-		- Collect ~1" molecular fragment 1 in whirlpak (can be cut from base of larger fragment, or can be a separate branch tip)
-		- Collect ~1cm molecular fragment 2 in whirlpak (can be cut from base of larger fragment, or can be a separate branch tip)
+		- Collect ~3" physiological fragment intact (i.e., only single cut at base)
+		- Collect ~1" molecular fragment 1 (can be cut from base of larger fragment, or can be a separate branch tip)
+		- Collect ~1cm molecular fragment 2 (can be cut from base of larger fragment, or can be a separate branch tip)
+		- 	Place all fragments in quart size bag
 	- *Porites* sampling
-		- Collect 2 sq. in. physiological fragment in whirlpak
-		- Collect 1 sq. in. molecular fragment 1 in whirlpak
-		- Collect <0.5 sq. in. molecular fragment 2 in whirlpak
+		- Collect 2 sq. in. physiological fragment
+		- Collect 1 sq. in. molecular fragment 1
+		- Collect <0.5 sq. in. molecular fragment 2
+		- 	Place all fragments in quart size bag
 		- *Recommendation: Use hammer and chisel to remove natural lumps from colony. Place chisel at base of lump tangent to colony surface and hammer from the side to dislodge lump.*
-	- When sampling is complete, place whirlpaks back into quart bag and seal with seawater inside. Pass off to person shuttling corals back to boat as soon as possible.
+	- When sampling is complete, seal quart bag with seawater inside. Pass off to person shuttling corals back to boat as soon as possible.
 	- Return samples to boat
-		- Drain seawater from whirlpaks with molecular fragments, roll tightly, and place into liquid nitrogen.
+		- Place molecular fragments inter whirlpaks, roll tightly, and place into liquid nitrogen.
 		- Seal quart bags with physiological fragments with as much seawater as possible, and place into mesh bag(s) hanging from side of boat.
-	- Collect 100 large *Turbinaria* fronds and place in mesh bag. These collections should be spread out across the sampling site. Gloves are recommended. Can be floated in seawater until leaving site, then just chuck them in the boat.
+	- Collect 100 large *Turbinaria* fronds and place in mesh bag. These collections should be spread out across the sampling site. Gloves are recommended. Can be floated in seawater until leaving site, then placed in the boat.
 	- Drive back to Gump.
 	- For next steps, see [Sample Same Day Processing Protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Sample_Same_Day_Processing_Protocol.md)
 

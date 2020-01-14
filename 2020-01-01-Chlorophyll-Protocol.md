@@ -20,7 +20,7 @@ Contents
 1. <a name="Materials"></a> **Materials**
     - 	100% acetone
     - 	flammable safe fridge 4°
-    - 	quartz 96 well plate
+    - 	**quartz** 96 well plate
     - 	1ml pipette and tips
     -  1.5 ml microfuge tubes
 
