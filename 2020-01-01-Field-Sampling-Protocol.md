@@ -76,7 +76,11 @@ Contents
 		- Seal quart bags with physiological fragments with as much seawater as possible, and place into mesh bag(s) hanging from side of boat.
 	- Collect 100 large *Turbinaria* fronds and place in mesh bag. These collections should be spread out across the sampling site. Gloves are recommended. Can be floated in seawater until leaving site, then placed in the boat.
 	- Drive back to Gump.
-	- For next steps, see [Sample Same Day Processing Protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Sample_Same_Day_Processing_Protocol.md)
+	- For next steps, see [Sample Same Day Processing Protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Sample_Same_Day_Processing_Protocol.md)  
+	
+** WATER SAMPLES FOR DIN**  
+
+** WATER SAMPLES FOR ZOOPLANKTON BIOMASS AND C:N**  
 
 
 4. <a name="References"></a> **References**
