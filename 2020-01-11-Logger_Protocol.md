@@ -14,7 +14,7 @@ Last Revised: 20200111
 
 Contents  
 - [**HOBO U24 Conductivity Logger**](#Conductivity)
-- [**pH**](#pH)
+- [**HOBO MX pH Logger**](#pH)
 - [**PAR**](#PAR)
 - [**Temperature**](#Temperature)  
 
@@ -22,10 +22,14 @@ Contents
 
 ### Data Download
 Following the logger [manual](https://www.onsetcomp.com/files/manual_pdfs/16844-G%20U24-002-C%20Manual.pdf):  
-1.
+1. Connect the U24 coupler to the base station, and connect the USB cable fron the base station to the laptop.  
+2. Align the arrows on the coupler and sensor, and push the sensor into the coupler following the image below.
 
+![logger](https://github.com/urol-e5/protocols/blob/master/images/U24_conductivity.png?raw=true)
 
-
+3. Start HOBOware on the laptop.  
+4. Read out the logger data by clicking the "Readout Device" icon.     
+5. Verify the status of the logger and launch as necessary.
 
 ### Calibration
 Conductivity Solution
@@ -49,4 +53,20 @@ Following the deployment protocol in the logger [manual](https://www.onsetcomp.c
 1. Launch the logger with a laptop or shuttle. *More details added here soon.*
 2. Take a calibration reading as described above.  
 3. Remove white electrical and copper tape that has fouled over the sampling time period. Re-tape with new electrical and copper tape prior to re-deployment.  
-4. See field image below as an example for deployment.
+4. Clean the conductivity sensor as necessary (not with sharp objects).   
+5. See field image below as an example for deployment.
+
+# <a name="pH"></a> **HOBO MX pH Logger**
+
+Following the protocols in the HOBO MX pH logger [manual](https://www.onsetcomp.com/files/manual_pdfs/22511-M%20MX2501%20Manual.pdf).
+### Data Download
+1. Download the HOBOmobile app from the App Store® or Google Play™. Open the app and enable bluetooth in device settings.  
+2. Wake up the logger by pushing the switch on the mounting end of the logger into the gap beneath the mounting lanyard.  
+3. Tape the Devices icon and then tap Loggers at the top of the screen. Tape the logger in the list to connect to it. See image below.  
+
+![pH]()
+
+
+### Calibration
+
+### Deployment
