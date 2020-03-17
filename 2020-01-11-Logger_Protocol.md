@@ -100,6 +100,8 @@ Following the protocols in the HOBO MX pH logger [manual](https://www.onsetcomp.
 
 # <a name="PAR"></a> **Light (PAR) Logger**
 
+
+
 # <a name="Temperature"></a> **HOBO v2 (U22) Temperature Logger**
 
 ### Data Download
@@ -125,4 +127,4 @@ No need to calibrate temperature probe in between time points.
 
 # E5 sensor deployment
 
-![loggers](https://github.com/urol-e5/protocols/blob/master/images/logger%20deployment.JPG?raw=true)
+![loggers](https://github.com/urol-e5/protocols/blob/master/images/logger_field.JPG?raw=true)
