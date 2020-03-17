@@ -92,7 +92,7 @@ Following the protocols in the HOBO MX pH logger [manual](https://www.onsetcomp.
 
 ### Deployment
 
-1. Launch the logger with a laptop or shuttle. *More details added here soon.*
+1. Launch the logger as necessary.   
 2. Take a calibration reading as described above.  
 3. Remove white electrical and copper tape that has fouled over the sampling time period. Re-tape with new electrical and copper tape prior to re-deployment.  
 4. **Make sure to bring closure caps on the boat to re-attach after removing pH storage solution on the boat.**   
@@ -104,14 +104,24 @@ Following the protocols in the HOBO MX pH logger [manual](https://www.onsetcomp.
 
 ### Data Download
 Following the logger [manual](https://www.onsetcomp.com/files/manual_pdfs/10366-I%20U22-001%20Manual.pdf):  
-1. Connect the U24 coupler to the base station, and connect the USB cable fron the base station to the laptop.  
+1. Connect the U22 coupler to the base station, and connect the USB cable fron the base station to the laptop.  
 2. Align the arrows on the coupler and sensor, and push the sensor into the coupler following the image below.
 
-![logger]()
+![logger](https://github.com/urol-e5/protocols/blob/master/images/tempU22_logger.png?raw=true)
 
 3. Start HOBOware on the laptop.  
 4. Read out the logger data by clicking the "Readout Device" icon.     
 5. Verify the status of the logger and launch as necessary.
+
+### Calibration
+
+No need to calibrate temperature probe in between time points.
+
+### Deployment
+
+1. Launch the logger using the base station and laptop as necessary.  
+2. Remove white electrical and copper tape that has fouled over the sampling time period. Re-tape with new electrical and copper tape prior to re-deployment.  
+3. See field image below as an example for deployment.
 
 # E5 sensor deployment
 
