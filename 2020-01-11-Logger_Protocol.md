@@ -13,12 +13,12 @@ Original: 220200111
 Last Revised: 20200111
 
 Contents  
-- [**HOBO U24 Conductivity Logger**](#Conductivity)
+- [**HOBO_U24_Conductivity_Logger**](#Conductivity)
 - [**HOBO MX pH Logger**](#pH)
-- [**PAR**](#PAR)
-- [**Temperature**](#Temperature)  
+- [**Light (PAR) Logger**](#PAR)
+- [**HOBO v2 (U22) Temperature Logger**](#Temperature)  
 
-# <a name="Conductivity"></a> **HOBO U24 Conductivity Logger**
+# <a name="Conductivity"></a> **HOBO_U24_Conductivity_Logger**
 
 ### Data Download
 Following the logger [manual](https://www.onsetcomp.com/files/manual_pdfs/16844-G%20U24-002-C%20Manual.pdf):  
@@ -97,3 +97,22 @@ Following the protocols in the HOBO MX pH logger [manual](https://www.onsetcomp.
 3. Remove white electrical and copper tape that has fouled over the sampling time period. Re-tape with new electrical and copper tape prior to re-deployment.  
 4. **Make sure to bring closure caps on the boat to re-attach after removing pH storage solution on the boat.**   
 5. See field image below as an example for deployment.
+
+# <a name="PAR"></a> **Light (PAR) Logger**
+
+# <a name="Temperature"></a> **HOBO v2 (U22) Temperature Logger**
+
+### Data Download
+Following the logger [manual](https://www.onsetcomp.com/files/manual_pdfs/10366-I%20U22-001%20Manual.pdf):  
+1. Connect the U24 coupler to the base station, and connect the USB cable fron the base station to the laptop.  
+2. Align the arrows on the coupler and sensor, and push the sensor into the coupler following the image below.
+
+![logger]()
+
+3. Start HOBOware on the laptop.  
+4. Read out the logger data by clicking the "Readout Device" icon.     
+5. Verify the status of the logger and launch as necessary.
+
+# E5 sensor deployment
+
+![loggers](https://github.com/urol-e5/protocols/blob/master/images/logger%20deployment.JPG?raw=true)
