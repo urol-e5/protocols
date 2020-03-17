@@ -58,15 +58,42 @@ Following the deployment protocol in the logger [manual](https://www.onsetcomp.c
 
 # <a name="pH"></a> **HOBO MX pH Logger**
 
+**The pH sensor must be kept in storage solution when not being calibrated or deployed in water. The hydration layer surrounding the sensor starts to break down after 10 minutes if the pH sensor is not submerged in storage solution or calibration solution, or deployed in water.**
+
 Following the protocols in the HOBO MX pH logger [manual](https://www.onsetcomp.com/files/manual_pdfs/22511-M%20MX2501%20Manual.pdf).
 ### Data Download
 1. Download the HOBOmobile app from the App Store® or Google Play™. Open the app and enable bluetooth in device settings.  
 2. Wake up the logger by pushing the switch on the mounting end of the logger into the gap beneath the mounting lanyard.  
 3. Tape the Devices icon and then tap Loggers at the top of the screen. Tape the logger in the list to connect to it. See image below.  
 
-![pH]()
+![pH](https://github.com/urol-e5/protocols/blob/master/images/pH_Max_logger1.PNG?raw=true)
 
+4. Select Readout and the export as a CSV file option.
+
+![ph2](https://github.com/urol-e5/protocols/blob/master/images/pH_Max_logger3.PNG?raw=true)
 
 ### Calibration
 
+1. If the sensor is in the storage solution, unscrew the clear storage cap and remove it from the logger.
+2. **If you removed the clear storage cap, screw the closure cap onto the logger.**
+3. Open HOBOmobile and tap the Devices icon and then tap Loggers at the top of the screen.  
+4. Find the logger in the list and tap it to connect to it. If the logger was previously configured with Bluetooth Always Off, press the switch on the logger to wake it up. If the logger was previously configured with Bluetooth Off Water Detect and it is deployed in water, remove it from water.
+5. Once connected, tap Yes if prompted to calibrate the logger. Otherwise, select pH Calibration.
+6. Select the calibration type (two-point using pH 7.00 and 4.01 solution, two-point using pH 7.00 and 10.00 solution, or three-point using pH 7.00, 4.01, and 10.00 solution). Tap Start Calibration.  
+
+![ph cal](https://github.com/urol-e5/protocols/blob/master/images/pH_Max_logger2.PNG?raw=true)
+
+7. Use a squirt bottle to rinse the pH sensor with deionized or distilled water.  
+8. Place the sensor end of the logger in the pH 7.00 solution. Make sure the sensor end cap, temperature sensor, and closure cap are submerged in the solution as shown in the illustration. pH 7.00 buffer will only be 7.00 at 25°C. Follow the instructions on the screen. Once the pH reading is stable, tap Confirm Buffer.  
+9. Rinse the pH sensor with deionized or distilled water again. Tap Next Buffer.  
+10. Place the sensor end of the logger in either the pH 4.01 or 10.00 solution as prompted, making sure the sensor end cap, temperature sensor, and closure cap are submerged in the solution. Follow the instructions on the screen. Once the pH reading is stable, tap Confirm Buffer.   
+11. Tap Save Calibration.
+12. Rinse the pH sensor with deionized or distilled water again. **If you will not be deploying the logger immediately, place the pH electrode in storage solution.**
+
 ### Deployment
+
+1. Launch the logger with a laptop or shuttle. *More details added here soon.*
+2. Take a calibration reading as described above.  
+3. Remove white electrical and copper tape that has fouled over the sampling time period. Re-tape with new electrical and copper tape prior to re-deployment.  
+4. **Make sure to bring closure caps on the boat to re-attach after removing pH storage solution on the boat.**   
+5. See field image below as an example for deployment.
