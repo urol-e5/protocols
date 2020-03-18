@@ -100,7 +100,19 @@ Following the protocols in the HOBO MX pH logger [manual](https://www.onsetcomp.
 
 # <a name="PAR"></a> **Light (PAR) Logger**
 
+### Data Download
 
+Following the protocol in the [Xtract](https://github.com/urol-e5/protocols/blob/master/Xtract%20User%20Manual.pdf) and [Xpert](https://github.com/urol-e5/protocols/blob/master/Xpert%20User%20Manual.pdf) manuals for data download.
+
+### Calibration
+
+Following the protocol in the Odyssey Xtreem [user manual](https://github.com/urol-e5/protocols/blob/master/Odyssey%20Xtreem%20PAR%20Logger%20User%20Manual.pdf).
+
+### Deployment
+
+1. Launch the logger as necessary.   
+2. Remove white electrical and copper tape that has fouled over the sampling time period. Re-tape with new electrical and copper tape prior to re-deployment.  
+3. See field image below as an example for deployment.
 
 # <a name="Temperature"></a> **HOBO v2 (U22) Temperature Logger**
 
