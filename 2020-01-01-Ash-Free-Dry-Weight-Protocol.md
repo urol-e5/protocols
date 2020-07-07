@@ -43,7 +43,7 @@ Contents
     6. Discard the remaining <1 mL of supernatant, being careful not to lose the pellet.
     6. Resuspend the symbiont pellets in 15-mL tubes with 1 mL 1xPBS. Use 5-mL pipet to break up symbiont pellet and transfer **all** of the liquid into another pre-burned pan. Record pan number and sample ID in notebook, indicating that this is the symbiont fraction.
     1. Transfer trays of filled pans to drying oven at 80°C for at least 24 h. (If 80°C oven is not available, use 60°C drying oven).
-    2. Weigh dried pans. Should be “at constant weight”. Preliminary steps may be needed to ensure samples have reached a constant weight. Leaving samples in drying oven longer than 24 h may be necessary, and is likely not detrimental.
+    2. Weigh dried pans. Should be “at constant weight”. Preliminary steps may be needed to ensure samples have reached a constant weight. Leaving samples in drying oven longer than 24 h may be necessary, and is not detrimental.
     1.  After samples have reached a constant weight, weigh pan + dried samples on a 4- decimal scale and record weight (= “D” in Table 1.)
     1.  After recording the weight of the burned pan + dry tissue (and salts), place in the muffle furnace at 450°C for 4-6 h. 
 	    - Turn on muffle furnace
