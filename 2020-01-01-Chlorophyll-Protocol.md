@@ -28,7 +28,7 @@ Contents
 
 **Sample Preparation**  
 1. Thaw homogenate aliquot.  
-2. Centrifuge the 500 μL aliquot of adult homogenate at 13,000 rpm for 3 minutes to separate the host and Symbiodiniaceae cells.  
+2. If not done already, centrifuge the 500 μL aliquot of adult airbrush homogenate at 13,000 rpm for 3 minutes to separate the host and Symbiodiniaceae cells.  
 3. Remove and discard the supernatant.  
 4. Add 1 mL of 100% acetone to the pellet in the 1.5 mL microcentrifuge tube and vortex the tubes for 15 sec.  
 5. Place tubes in the dark at 4°C for 24 hours.  
@@ -47,8 +47,12 @@ Chlorophyll a and c2 concentrations are calculated from the equations in [Jeffre
 
 ![Equations for Dinos in 100% acetone](/Users/hputnam/MyProjects/urol-e5/protocols/images/JH_EQ.png)
 
+Need to correct for differences in path length of the volume in the 96 well plate compared to the 1cm path length of a cuvette. 
+[Warren 2007](https://www.tandfonline.com/doi/full/10.1080/01904160802135092?casa_token=RqeUl1Ccg7AAAAAA%3A6SyNAs848qrRk1-Tf1g088xWD10z1Xngb8cmcgRvC3jYSYPugr2cL8QG9wFvrFj7xZF-pqqUozonRg)
+
 4. <a name="References"></a> **References**
 
-    1.  XX
+    1.  [Jeffrey and Humphrey 1975](https://reader.elsevier.com/reader/sd/pii/S0015379617307783?token=0937035D38C07F29ADF00F1F2A21F20F221219B1CC11A444A4F84D16B98EC3A6AD941D191BA2135A68C98BA62A0B69FE)
+    2. [Warren 2007](https://www.tandfonline.com/doi/full/10.1080/01904160802135092?casa_token=RqeUl1Ccg7AAAAAA%3A6SyNAs848qrRk1-Tf1g088xWD10z1Xngb8cmcgRvC3jYSYPugr2cL8QG9wFvrFj7xZF-pqqUozonRg)
 
 
