@@ -35,8 +35,10 @@ Contents
 	- Clean cytometer as before with DI water. Clean glass pipet with a tube of DI water.
 	- Repeat above steps twice more for 6 total counts. 
 	- *Note: Each count should count the same number of the nine large squares. For example, if the first count for sample X requires 3 squares to reach 100 squares, 3 squares should be counted on all subsequent counts for sample X.*
-	- Make sure average # of cells/square is consistent (calculate std dev and coefficient of variation- should be less than 15%).
-	- Multiply # of cells/square by 10^4 and the dilution factor to get cells/mL. Normalize to surface area to get cell/surface area.
+	- Make sure average # of cells/square is consistent (calculate coefficient of variation of counts in a sample- should be less than 15%).
+	- Multiply # of cells/square by 10^4 and the dilution factor to get cells/mL.
+	- Multiply by homogenate volume to get total cells.
+	- Normalize to surface area to get cells/surface area.
 
 
 4. <a name="References"></a> **References**
