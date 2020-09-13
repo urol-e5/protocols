@@ -35,7 +35,7 @@ Following the logger [manual](https://www.onsetcomp.com/files/manual_pdfs/16844-
 Conductivity Solution
 RICCA Cat# 2248 Conductivity Standard 50,000 µS/cm at 25°C
 
-Measure a known conductivity standard in the lab at 25°C before deployment and after the return of the logger before cleaning. Protocols following the logger [manual](https://www.onsetcomp.com/files/manual_pdfs/16844-G%20U24-002-C%20Manual.pdf).
+Measure a known conductivity standard in the lab at 25°C _**before deployment and after the return of the logger before cleaning**_.  **IF THESE CALIBRATIONS ARE NOT DONE THE DATA ARE USELESS** Here is the logger manual [manual](https://www.onsetcomp.com/files/manual_pdfs/16844-G%20U24-002-C%20Manual.pdf).
 
 Following Method #3: Taking a sample back to the office in a sealable jar to measure there (recommended for locations with conductivity that is stable when you do not have a field meter or it is not convenient to access the logger):
 1. Place a sample of the water taken from next to the logger in a jar and immediately seal it to ensure that none of the water evaporates. This allows the specific conductance and salinity of the sample to be maintained, which in turn results in usable temperature and conductivity readings when you measure it with the meter at a later time.
