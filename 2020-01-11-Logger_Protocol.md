@@ -117,7 +117,7 @@ Following the protocol in the Odyssey Xtreem [user manual](https://github.com/ur
 # <a name="Temperature"></a> **HOBO v2 (U22) Temperature Logger**
 
 ### Data Download
-Following the logger [manual](https://www.onsetcomp.com/files/manual_pdfs/10366-I%20U22-001%20Manual.pdf):  
+Following the logger [manual](https://github.com/urol-e5/protocols/blob/master/10366-I_U22-001_Temp_Manual.pdf):  
 1. Connect the U22 coupler to the base station, and connect the USB cable fron the base station to the laptop.  
 2. Align the arrows on the coupler and sensor, and push the sensor into the coupler following the image below.
 
@@ -129,7 +129,7 @@ Following the logger [manual](https://www.onsetcomp.com/files/manual_pdfs/10366-
 
 ### Calibration
 
-No need to calibrate temperature probe in between time points.
+Cross calibrate the loggers betweeb each deployment in a bucket of water outdoors at the lab. Log temperature manually at the corresponding logger time with the digitial traceable thermometer.
 
 ### Deployment
 
