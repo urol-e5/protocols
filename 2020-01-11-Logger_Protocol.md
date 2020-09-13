@@ -60,7 +60,7 @@ Following the deployment protocol in the logger [manual](https://www.onsetcomp.c
 
 **The pH sensor must be kept in storage solution when not being calibrated or deployed in water. The hydration layer surrounding the sensor starts to break down after 10 minutes if the pH sensor is not submerged in storage solution or calibration solution, or deployed in water.**
 
-Following the protocols in the HOBO MX pH logger [manual](https://www.onsetcomp.com/files/manual_pdfs/22511-M%20MX2501%20Manual.pdf).
+Following the protocols in the [HOBO MX pH logger manual](https://github.com/urol-e5/protocols/blob/master/22511-M%20MX2501%20Manual.pdf).
 ### Data Download
 1. Download the HOBOmobile app from the App Store® or Google Play™. Open the app and enable bluetooth in device settings.  
 2. Wake up the logger by pushing the switch on the mounting end of the logger into the gap beneath the mounting lanyard.  
