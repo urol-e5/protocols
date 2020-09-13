@@ -139,4 +139,4 @@ No need to calibrate temperature probe in between time points.
 
 # E5 sensor deployment
 
-![loggers](https://github.com/urol-e5/protocols/blob/master/images/logger_field.JPG?raw=true)
+![loggers](https://github.com/urol-e5/protocols/blob/master/images/correct_sensor_deployment.png?raw=true)
