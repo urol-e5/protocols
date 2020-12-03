@@ -72,7 +72,7 @@ Contents
 		- *Recommendation: Use hammer and chisel to remove natural lumps from colony. Place chisel at base of lump tangent to colony surface and hammer from the side to dislodge lump.*
 	- When sampling is complete, seal quart bag with seawater inside. Pass off to person shuttling corals back to boat as soon as possible.
 	- Return samples to boat
-		- Place molecular fragments inter whirlpaks, roll tightly, and place into liquid nitrogen.
+		- Place molecular fragments inter whirlpaks with no water, roll tightly and seal, and place into liquid nitrogen.
 		- Seal quart bags with physiological fragments with as much seawater as possible, and place into mesh bag(s) hanging from side of boat.
 	- Collect 100 large *Turbinaria* fronds and place in mesh bag. These collections should be spread out across the sampling site. Gloves are recommended. Can be floated in seawater until leaving site, then placed in the boat.
 	- Drive back to Gump.

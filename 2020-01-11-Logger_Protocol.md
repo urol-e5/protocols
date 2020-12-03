@@ -35,7 +35,7 @@ Following the logger [manual](https://www.onsetcomp.com/files/manual_pdfs/16844-
 Conductivity Solution
 RICCA Cat# 2248 Conductivity Standard 50,000 µS/cm at 25°C
 
-Measure a known conductivity standard in the lab at 25°C before deployment and after the return of the logger before cleaning. Protocols following the logger [manual](https://www.onsetcomp.com/files/manual_pdfs/16844-G%20U24-002-C%20Manual.pdf).
+Measure a known conductivity standard in the lab at 25°C _**before deployment and after the return of the logger before cleaning**_.  **IF THESE CALIBRATIONS ARE NOT DONE THE DATA ARE USELESS** Here is the logger manual [manual](https://www.onsetcomp.com/files/manual_pdfs/16844-G%20U24-002-C%20Manual.pdf).
 
 Following Method #3: Taking a sample back to the office in a sealable jar to measure there (recommended for locations with conductivity that is stable when you do not have a field meter or it is not convenient to access the logger):
 1. Place a sample of the water taken from next to the logger in a jar and immediately seal it to ensure that none of the water evaporates. This allows the specific conductance and salinity of the sample to be maintained, which in turn results in usable temperature and conductivity readings when you measure it with the meter at a later time.
@@ -60,7 +60,7 @@ Following the deployment protocol in the logger [manual](https://www.onsetcomp.c
 
 **The pH sensor must be kept in storage solution when not being calibrated or deployed in water. The hydration layer surrounding the sensor starts to break down after 10 minutes if the pH sensor is not submerged in storage solution or calibration solution, or deployed in water.**
 
-Following the protocols in the HOBO MX pH logger [manual](https://www.onsetcomp.com/files/manual_pdfs/22511-M%20MX2501%20Manual.pdf).
+Following the protocols in the [HOBO MX pH logger manual](https://github.com/urol-e5/protocols/blob/master/22511-M%20MX2501%20Manual.pdf).
 ### Data Download
 1. Download the HOBOmobile app from the App Store® or Google Play™. Open the app and enable bluetooth in device settings.  
 2. Wake up the logger by pushing the switch on the mounting end of the logger into the gap beneath the mounting lanyard.  
@@ -117,7 +117,7 @@ Following the protocol in the Odyssey Xtreem [user manual](https://github.com/ur
 # <a name="Temperature"></a> **HOBO v2 (U22) Temperature Logger**
 
 ### Data Download
-Following the logger [manual](https://www.onsetcomp.com/files/manual_pdfs/10366-I%20U22-001%20Manual.pdf):  
+Following the logger [manual](https://github.com/urol-e5/protocols/blob/master/10366-I_U22-001_Temp_Manual.pdf):  
 1. Connect the U22 coupler to the base station, and connect the USB cable fron the base station to the laptop.  
 2. Align the arrows on the coupler and sensor, and push the sensor into the coupler following the image below.
 
@@ -129,7 +129,7 @@ Following the logger [manual](https://www.onsetcomp.com/files/manual_pdfs/10366-
 
 ### Calibration
 
-No need to calibrate temperature probe in between time points.
+Cross calibrate the loggers betweeb each deployment in a bucket of water outdoors at the lab. Log temperature manually at the corresponding logger time with the digitial traceable thermometer.
 
 ### Deployment
 
@@ -139,4 +139,4 @@ No need to calibrate temperature probe in between time points.
 
 # E5 sensor deployment
 
-![loggers](https://github.com/urol-e5/protocols/blob/master/images/logger_field.JPG?raw=true)
+![loggers](https://github.com/urol-e5/protocols/blob/master/images/correct_sensor_deployment.png?raw=true)
