@@ -10,7 +10,7 @@ projects: E5, Putnam Lab
 # Total Antioxidant Capacity Protocol
 
 Original: 220200101   
-Last Revised: 20200102  
+Last Revised: 20201202  
 
 
 [Cell BioLabs OxiSelect Total Antioxidant Capacity (TAC) Assay Kit](https://www.cellbiolabs.com/total-antioxidant-capacity-tac-assay?gclid=EAIaIQobChMIiI6EtZK15QIVBKSzCh0uSw7pEAAYAyAAEgID-_D_BwE).
@@ -21,9 +21,9 @@ Contents
 - [**Materials**](#Materials)   
 - [**Reagent Prep**](#Reagent Prep)    
 - [**Protocol**](#Protocol)  
-- [**References**](#References)
+- [**References**](#References)  
 
-1. <a name="Materials"></a> **Materials**
+<a name="Materials"></a> **Materials**  
 	- Standard 96-well microplate  
 	- 1N NaOH 
 	- 1X PBS
@@ -34,12 +34,12 @@ Contents
 	- 50 μL to 300 μL adjustable multichannel micropipette with disposable tips  
 	- Spectrophotometer microplate reader capable of reading 490 nm
 
-2. <a name="Reagent Prep"></a> **Reagent Prep**
+<a name="Reagent Prep"></a> **Reagent Prep**  
 1. 1X Reaction Buffer: Dilute the Reaction Buffer 1:100 with 1X PBS (hydrophilic) or with methanol (lipophilic). Mix to homogenity. Store the 1X Reaction Buffer at 4&deg;C for up to 3 months.  
 2. 1X Copper Ion Reagent: Dilute the Copper Ion Reagent 1:100 with deionized water (hydrophilic) or with methanol (lipophilic). Mix to homogenity. Store the 1X Copper Ion Reagent at 4&deg;C for up to 3 months.  
 3. 1X Stop Solution: Dilute the Stop Solution 1:10 with deionized water (hydrophilic) or with methanol (lipophilic). Mix to homogenity. Store the 1X Stop Solution at 4&deg;C for up to three months.  
 
-**Sample Preparation**
+**Sample Preparation**  
 1. Samples should be stored at -80 prior to procedure
 1. Thaw homogenate aliquot on ice.  
 2. Centrifuge at 10,000 xg for 10 minutes at 4&deg;C.  
@@ -63,9 +63,10 @@ Contents
 | 9     | 500 of Tube #8                           | 500           | 0.0039                                 |
 | 10    | 0                                        | 500           | 0                                      |
 
-3. <a name="Protocol"></a> **Protocol**  
+**Protocol**  
 
-*Each Uric Acid Standard and sample should be assayed in duplicate for replication. A freshly prepared standard curve should be used each time the assay is performed.*
+*Each Uric Acid Standard and sample should be assayed in duplicate for replication. A freshly prepared standard curve should be used each time the assay is performed.*  
+
 1. Using a pipette, mix the sample in the microcentrifuge tube. Add 20 μL of the diluted Uric Acid Standards or samples to the 96-well microtiter plate.    
 2. Add 180 μL of the 1X Reaction Buffer to each well.  
 3. Measure an initial absorbance at 490 nm.  
@@ -74,7 +75,18 @@ Contents
 6. Add 50 μL of 1X Stop Solution to each well. This terminates the reaction.  
 7. Measure the absorbance for each well at 490 nm.
 
-4. <a name="References"></a> **References**
+<a name="References"></a> **References**
 
-    1.  Schoepf et al., 2013. Coral Energy Reserves and Calcification in a High-CO2 World at Two Temperatures. PLoS ONE 8:
-    	e75049
+1. Ayalon, I., de Barros Marangoni, L. F., Benichou, J. I. C., Avisar, D., & Levy, O. (2019). Red Sea corals under Artificial Light Pollution at Night (ALAN) undergo oxidative stress and photosynthetic impairment. Global Change Biology, 25(12), 4194–4207.
+
+2. da Silva Fonseca, J., Mies, M., Paranhos, A., Taniguchi, S., Güth, A. Z., Bícego, M. C., … Bianchini, A. (2020). Isolated and combined effects of thermal stress and copper exposure on the trophic behavior and oxidative status of the reef-building coral Mussismilia harttii. Environmental Pollution , 268(Pt B), 115892.
+
+3. Du, C., Anderson, A., Lortie, M., Parsons, R., & Bodnar, A. (2013). Oxidative damage and cellular defense mechanisms in sea urchin models of aging. Free Radical Biology & Medicine, 63, 254–263.
+
+4. Marangoni, L. F. de B., de Barros Marangoni, L. F., Ferrier-Pagès, C., Rottier, C., Bianchini, A., & Grover, R. (2020). Unravelling the different causes of nitrate and ammonium effects on coral bleaching. Scientific Reports, Vol. 10. doi: 10.1038/s41598-020-68916-0
+
+5. Marangoni, L. F. de B., Marques, J. A., Duarte, G. A. S., Pereira, C. M., Calderon, E. N., Castro, C. B. E., & Bianchini, A. (2017). Copper effects on biomarkers associated with photosynthesis, oxidative status and calcification in the Brazilian coral Mussismilia harttii (Scleractinia, Mussidae). Marine Environmental Research, 130, 248–257.
+
+6. Moustafa, A. (2020). Changes in nitric oxide, carbon monoxide, hydrogen sulfide and male reproductive hormones in response to chronic restraint stress in rats. Free Radical Biology & Medicine. doi: 10.1016/j.freeradbiomed.2020.10.315
+
+7. Strahl, J., Francis, D. S., Doyle, J., Humphrey, C., & Fabricius, K. E. (2015). Biochemical responses to ocean acidification contrast between tropical corals with high and low abundances at volcanic carbon dioxide seeps. ICES Journal of Marine Science: Journal Du Conseil, 73(3), 897–909.
