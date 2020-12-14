@@ -41,6 +41,7 @@ Last Revised: 20201214
 - DI Water
 - Squeeze Bottle
 - Large Towel
+- Isopropanol wipes
 
 <a name="Loligo_MicroResp_Software"></a> **LoligoⓇ MicroResp™ Software**
 
@@ -110,7 +111,7 @@ Setting up the SDR sensor plates and accompanying system for the first time in a
 
 1. Stop the MicroResp program. 
 2. Disconnect and disassemble the SDR SensorDish Readers carefully and place components back into the SDR SensorDish Reader cases. 
-3. Use an alcohol wipe on the cables and wipe with kimwipes. Notes: make sure to avoid the top of the SDR SensorDish Readers and ends of the wires. 
+3. Use isopropanol wipes on all of the cables and wipe dry with kimwipes. Notes: make sure to avoid the top of the SDR SensorDish Readers and ends of the wires. 
 4. Record and export all data to multiple locations (GoogleDrive, GitHub, Computer).
 5. Check that all data files appear to have data in proper columns and consistency throughout. If you see any inconsistencies, make sure to redownload data from program or re-run trials before clean up.
 6. Remove larvae from wells and either preserve for larval size/biomass measurements, or carefully place back into the stock population.
