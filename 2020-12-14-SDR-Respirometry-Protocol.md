@@ -64,7 +64,7 @@ Setting up the SDR sensor plates and accompanying system for the first time in a
 1. Suspend an AI light above each SDR plate and follow the [(AI Light Protocol)](https://github.com/urol-e5/protocols/blob/master/2020-03-18-AI-Lights.md) for set up instructions. Notes: make sure to check what saturating light conditions your study organism needs for Photosynthesis trials. To calculate saturating light conditions, follow the [(PI Curve Protocol)](https://github.com/urol-e5/protocols/blob/master/2020-01-01-PI-Curve-Protocol.md)
 2. Assemble SDR reader following the [(SDR SensorDish Reader Installation Video)](https://www.youtube.com/watch?v=F0_b4Ws6Eow&feature=youtu.be). Connect the SDR plate readers to the USB port on the computer and open the LoligoⓇ MicroResp™ Software. 
 3. To ensure that the correct saturating light level is set on the AI light, follow the [(Apogee User Manual)](https://www.apogeeinstruments.com/content/MQ-500.pdf). Situate the Apogee above the SDR plate and take ~ 8 readings at various positions around the SDR plate to get an average light measurement. Adjust the placement of the SDR plate, light stand, and AI light as necessary to attain desired light intensities. Ideally, light levels should be as equal as possible across the different positions across the 2 SDR plates. Note: In Mo’orea, average saturating light level for *Acropora hyacinthus* larvae should be set at ~500 PFD. 
-4.Record the AI light setting and position combinations required to obtain each desired light intensity to use in Photosynthesis trials.
+4. Record the AI light setting and position combinations required to obtain each desired light intensity to use in Photosynthesis trials.
 5. See comment 
 
 <a name="Sample_Preparation"></a> **Sample Preparation**
@@ -72,7 +72,17 @@ Setting up the SDR sensor plates and accompanying system for the first time in a
 1. Set up SDR respirometry equipment (see [**Initial Setup**](#Initial_Setup) for details). Set oxygen concentration in units of umol/L. 
 2. Load samples into wells, loading 22 wells with samples and 2 with FSW as blanks. Randomize the location for each run (see XXX for details). Use 6-8 larvae per well. If possible, run a quick trial in 3-5 wells to see if 6-8 larvae provide a signal in Photosynthesis and Respiration. If necessary, you can include more larvae per well - just record the number of larvae you use. 
 3. Seal the plate with coverslips. See video HERE and refer to protocol for details. 
-4. Run [**Photosynthesis**](#Photosynthesis) or [**Respiration**](#Respiration) trials.
+4. Make sure that the OxoDish or HydroDish are correctly aligned over the middle of the lasers on the SDR SensorDish Readers.
+5. The SensorDishes can easily be positioned on the SDR due to a groove in the housing of the SDR.
+
+![Fig. 1](https://github.com/urol-e5/protocols/blob/master/images/Figure_1.png)
+
+6. Please be sure that the SensorDishes rest in the groove properly, otherwise the measurement signal will not be sufficient, which results in a bad resolution or even the message “NO SENSOR”.
+7. Please be sure that the SensorDish® rests in the groove properly, otherwise the measurement signal will not be sufficient, which results in a bad resolution or even the message “NO SENSOR”.
+
+![Fig. 2](https://github.com/urol-e5/protocols/blob/master/images/Figure_2.png)
+
+8. Run [**Photosynthesis**](#Photosynthesis) or [**Respiration**](#Respiration) trials.
 
 <a name="Photosynthesis"></a> **Photosynthesis**
 
@@ -90,15 +100,7 @@ Setting up the SDR sensor plates and accompanying system for the first time in a
 
 <a name="Final_Checks"></a> **Final Checks**
 
-1. Make sure that the OxoDish or HydroDish are correctly aligned over the middle of the lasers.
-2. The SensorDishes can easily be positioned on the SDR due to a groove in the housing of the SDR.
-
-![Fig. 1](https://github.com/urol-e5/protocols/blob/master/images/Figure_1.png)
-
-3. Please be sure that the SensorDishes rest in the groove properly, otherwise the measurement signal will not be sufficient, which results in a bad resolution or even the message “NO SENSOR”.
-4. Please be sure that the SensorDish® rests in the groove properly, otherwise the measurement signal will not be sufficient, which results in a bad resolution or even the message “NO SENSOR”.
-
-![Fig. 2](https://github.com/urol-e5/protocols/blob/master/images/Figure_2.png)
+1. 
 
 <a name="Data_Analysis"></a> **Data Analysis**
 
