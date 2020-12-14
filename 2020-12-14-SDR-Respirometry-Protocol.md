@@ -109,7 +109,7 @@ Setting up the SDR sensor plates and accompanying system for the first time in a
 <a name="Take-Down"></a> **Take-Down and Clean Up**
 
 1. Stop the MicroResp program. 
-2. Disconnect and disassembly the SDR SensorDish Readers carefully and place components back into the SDR SensorDish Reader cases. 
+2. Disconnect and disassemble the SDR SensorDish Readers carefully and place components back into the SDR SensorDish Reader cases. 
 3. Use an alcohol wipe on the cables and wipe with kimwipes. Notes: make sure to avoid the top of the SDR SensorDish Readers and ends of the wires. 
 4. Record and export all data to multiple locations (GoogleDrive, GitHub, Computer).
 5. Check that all data files appear to have data in proper columns and consistency throughout. If you see any inconsistencies, make sure to redownload data from program or re-run trials before clean up.
