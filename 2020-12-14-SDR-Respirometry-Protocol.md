@@ -78,7 +78,7 @@ Setting up the SDR sensor plates and accompanying system for the first time in a
 ![Fig. 1](https://github.com/urol-e5/protocols/blob/master/images/Figure_1.png)
 
 6. Please be sure that the SensorDishes rest in the groove properly, otherwise the measurement signal will not be sufficient, which results in a bad resolution or even the message “NO SENSOR”.
-7. Please be sure that the SensorDish® rests in the groove properly, otherwise the measurement signal will not be sufficient, which results in a bad resolution or even the message “NO SENSOR”.
+7. Be sure to put the SensorDish® aligned correctly onto the SDR (well numeration) to be able to associate the software values with your samples.
 
 ![Fig. 2](https://github.com/urol-e5/protocols/blob/master/images/Figure_2.png)
 
