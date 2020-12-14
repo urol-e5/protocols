@@ -91,9 +91,14 @@ Setting up the SDR sensor plates and accompanying system for the first time in a
 <a name="Final_Checks"></a> **Final Checks**
 
 1. Make sure that the OxoDish or HydroDish are correctly aligned over the middle of the lasers.
-2. The SensorDishes can easily be positioned on the SDR due to a groove in the housing of the SDR (see ![Fig. 1](https://github.com/urol-e5/protocols/blob/master/images/Figure_1.png)). 
+2. The SensorDishes can easily be positioned on the SDR due to a groove in the housing of the SDR.
+
+![Fig. 1](https://github.com/urol-e5/protocols/blob/master/images/Figure_1.png)
+
 3. Please be sure that the SensorDishes rest in the groove properly, otherwise the measurement signal will not be sufficient, which results in a bad resolution or even the message “NO SENSOR”.
-4. Please be sure that the SensorDish® rests in the groove properly (see ![Fig. 2](https://github.com/urol-e5/protocols/blob/master/images/Figure_2.png)), otherwise the measurement signal will not be sufficient, which results in a bad resolution or even the message “NO SENSOR”.
+4. Please be sure that the SensorDish® rests in the groove properly, otherwise the measurement signal will not be sufficient, which results in a bad resolution or even the message “NO SENSOR”.
+
+![Fig. 2](https://github.com/urol-e5/protocols/blob/master/images/Figure_2.png)
 
 <a name="Data_Analysis"></a> **Data Analysis**
 
