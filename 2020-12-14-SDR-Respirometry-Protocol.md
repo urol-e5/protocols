@@ -28,7 +28,7 @@ Last Revised: 20201214
 
 <a name="Supplies"></a> **Supplies**
 
-- 2 PreSens SDR SensorDish® Reader Basic Set [(SDR Information)](https://www.presens.de/products/detail/sdr-sensordish-reader-basic-set)
+- 2 PreSens SDR SensorDish® Reader Basic Set [(SDR Product Information)](https://www.presens.de/products/detail/sdr-sensordish-reader-basic-set) [(SDR User Manual)](https://www.presens.de/index.php?eID=dumpFile&t=f&f=1103&token=6ec566be81833841f3e6b4f16998296b8d4fbe3e) 
 - 2 PreSens OxoDish® OD24 for oxygen measurements [(PreSens OxoDish® OD24)](https://www.presens.de/products/detail/oxodish-od24)
 - 2 PreSens HydroDish® HD24 for pH measurements [(PreSens HydroDish® HD24)](https://www.presens.de/products/detail/hydrodish-hd24)
 - LoligoⓇ MicroResp™ Software [(Software Download)](https://www.loligosystems.com/downloads)
