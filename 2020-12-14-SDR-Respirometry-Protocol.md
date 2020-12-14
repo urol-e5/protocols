@@ -28,14 +28,14 @@ Last Revised: 20201214
 
 <a name="Supplies"></a> **Supplies**
 
-- 2 PreSens SDR SensorDish® Reader Basic Set [(SDR Set)](https://www.presens.de/products/detail/sdr-sensordish-reader-basic-set)
+- 2 PreSens SDR SensorDish® Reader Basic Set [(SDR Information)](https://www.presens.de/products/detail/sdr-sensordish-reader-basic-set)
 - 2 PreSens OxoDish® OD24 for oxygen measurements [(PreSens OxoDish® OD24)](https://www.presens.de/products/detail/oxodish-od24)
 - 2 PreSens HydroDish® HD24 for pH measurements [(PreSens HydroDish® HD24)](https://www.presens.de/products/detail/hydrodish-hd24)
 - LoligoⓇ MicroResp™ Software [(Software Download)](https://www.loligosystems.com/downloads)
 - Circular Coverslips (> 48)
 - Windows Computer 
 - Handheld Temperature Probe 
-- 2 AI Aquaillumination Prime™ 16HD Reef Aquarium Lights [(Product Descriptionl)](https://www.aquaillumination.com/products/prime)
+- 2 AI Aquaillumination Prime™ 16HD Reef Aquarium Lights [(Product Description)](https://www.aquaillumination.com/products/prime)
 - Apogee Quantum Light Meter [(User Manual)](https://www.apogeeinstruments.com/content/MQ-500.pdf)
 - Kimwipes
 - DI Water
