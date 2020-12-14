@@ -66,7 +66,10 @@ Contents
     - Collect the remaining water in its corresponding brown bottle (should be labeled to corresponding coral ID) using the same methods for the initial sample (i.e., triple rinses and filling to minimize air bubbles).
     	-For this trip we had only one brown bottle per chamber/coral sample. For next trip and future we want water samples in duplicate because there was some variability.
     - Once the chamber is emptied of water, transfer the coral into a prelabeled ziploc or whirl-pak bag and snap freeze in the dry shipper containing liquid nitrogen.
-    - Poisoin all brown bottle samples using 75uL of saturated mercuric chloride. Invert the bottles to mix. **Make sure to perform this in the fume hood, wear appropriate PPE, and dispose of all hazardous waste appropriately)**.
+    - Poison all brown bottle samples using 75uL of saturated mercuric chloride. Invert the bottles to mix. **Make sure to perform this in the fume hood, wear appropriate PPE, and dispose of all hazardous waste appropriately)**.
+    - After fixing all bottles, make sure the cap is screw on **TIGHTLY and parafilm the cap well**
+    - When ready for transport, make sure each parafilmed bottle is placed in secondary containment when transporting (ie. put bottles in plastic sealable bag). Additionally, make sure the bottles are packed in the case that will be traveling in such a way that they will not knock around in transport all that much.
+    	-We had bottles explode in Pelican cases and lost samples because caps were not checked or wrapped or secondarily packed and now pelican cases are contaminated with Mercuric chloride! 
 
     
 4. <a name="References"></a> **References**
