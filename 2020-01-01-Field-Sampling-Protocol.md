@@ -3,7 +3,7 @@ layout: post
 title: E5 Field Sampling Protocol
 date: '2020-01-01'
 categories: Protocols
-tags: *in situ* coral sampling, coral, physiology
+tags: in situ coral sampling, coral, physiology
 projects: E5, Putnam Lab
 ---
 
