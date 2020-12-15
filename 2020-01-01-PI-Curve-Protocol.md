@@ -58,7 +58,7 @@ Setting up the respirometry system for the first time in a new place:
 1. Suspend AI lights above each bin, following the [(AI Light Protocol)](https://github.com/urol-e5/protocols/blob/master/2020-03-18-AI-Lights.md) for set up instructions.
 2. To control the AI light settings:
 	* Download the myAI® app on a compatible iOS or Android phone. 
-        * Follow the [(myAI User Manual)](https://www.theaquariumsolution.com/sites/default/files/downloads/Setting%20up%20AI%20Prime%20or%20Hydra%20HD.pdf) for setup and useage instructions. 
+        * Follow the [(AI Lights Protocol](https://github.com/urol-e5/protocols/blob/master/2020-03-18-AI-Lights.md) for setup and useage instructions. 
 3. Place a respirometry stand into each bin. 
 4. Using the apogee quantum meter to measure light levels at each position, adjust the placement of the bin, stand, and AI lights as necessary to attain desired light intensities. Ideally, light levels should be as equal as possible across the different positions on the 2 stands. 
 5. Once finished, mark the position of the bins and the stands using electrical tape. Record the AI light settings and position combinations required to obtain each desired light intensity required for the PI curves.
