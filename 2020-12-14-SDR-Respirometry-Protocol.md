@@ -97,7 +97,10 @@ Setting up the SDR sensor plates and accompanying system for the first time in a
 
 <a name="pH"></a> **pH**
 
-1.  
+1.  Under the Multi-Parameter section, download the [(SDR v4.0.0 Software)](https://www.presens.de/support-services/download-center/software) to a compatible Windows XP/Vista/7/10 computer.
+2. Follow the instructions in the [(SDR User Manual)](https://www.presens.de/index.php?eID=dumpFile&t=f&f=1103&token=6ec566be81833841f3e6b4f16998296b8d4fbe3e) to measure pH using the HydroDish plate. 
+
+https://www.presens.de/index.php?eID=dumpFile&t=f&f=1103&token=6ec566be81833841f3e6b4f16998296b8d4fbe3e
 
 <a name="Final_Checks"></a> **Final Checks**
 
