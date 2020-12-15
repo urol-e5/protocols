@@ -34,7 +34,7 @@ Last Revised: 20201214
 - LoligoⓇ MicroResp™ Software [(Software Download)](https://www.loligosystems.com/downloads)
 - Circular Coverslips (> 48)
 - Windows Computer 
-- Handheld Temperature Probe 
+- [Digital Traceable Thermometer](https://www.traceable.com/4000-traceable-digital-thermometer.html)
 - 2 AI Aquaillumination Prime™ 16HD Reef Aquarium Lights [(Product Description)](https://www.aquaillumination.com/products/prime)
 - Apogee Quantum Light Meter [(User Manual)](https://www.apogeeinstruments.com/content/MQ-500.pdf)
 - Kimwipes
