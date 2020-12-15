@@ -22,27 +22,29 @@ Contents
 1. <a name="Materials"></a> **Materials**
     - 	Coral (PI curve already measured)
     -  2 Respirometry stands (with 4 screw-on legs)
-	- Chambers x12
-	- Magnetic stir bars x12
-	- Chamber screw key
-	- 2 large bins (to hold chambers)
-	- Extra bin (for source water to fill chambers)
-	- Powersonic 6 Volt, 3.5 Amp rechargeable battery
-	- Powersonic Battery charger with cable
-	- Bug net (if need to lower PAR values)
-	- Ocean Revive lights
-	- Strap wrench
-	- Parafilm
-	- Pipet tips (p20uL and p200uL)
-	- Heater(s)
-	- Pumps
-	- Bags suitable for snap freezing the coral
-	- Dry shipper with liquid nitrogen
-	- Brown bottles (for each run: 2 initials + 1 per coral + 1 blank)
-	- 150mL opaque collection bottle
-	- [Orion Star™ A325 pH/Conductivity Portable Multiparameter Meter](https://www.thermofisher.com/order/catalog/product/STARA3250)
-	- [pH electrode InLab Expert Pro](https://www.mt.com/au/en/home/products/Laboratory_Analytics_Browse/pH-meter/sensor/pH-sensor/InLab-Expert-Pro.html)
-	- [Digital Traceable Thermometer](https://www.traceable.com/4000-traceable-digital-thermometer.html)
+    - Chambers x12
+    - Magnetic stir bars x12
+    - Chamber screw key
+    - 2 large bins (to hold chambers)
+    - Extra bin (for source water to fill chambers)
+    - Powersonic 6 Volt, 3.5 Amp rechargeable battery
+    - Powersonic Battery charger with cable
+    - Bug net (if need to lower PAR values)
+    - 12 AI Aquaillumination Prime™ 16HD Reef Aquarium Lights [(Product
+            Description)](https://www.aquaillumination.com/products/prime)
+    - Strap wrench
+    - Parafilm
+    - Pipet tips (p20uL and p200uL)
+    - Heater(s)
+    - Pumps
+    - Bags suitable for snap freezing the coral (whirlpaks)
+    - Dry shipper with liquid nitrogen
+    - Brown bottles (for each run: 2 initials + 2 per coral + 2 blanks)
+    - 150mL brown Nalgene collection bottle
+    - [Orion Star™ A325 pH/Conductivity Portable Multiparameter Meter](https://www.thermofisher.com/order/catalog/product/STARA3250)
+    - [pH electrode InLab Expert Pro](https://www.mt.com/au/en/home/products/Laboratory_Analytics_Browse/pH-meter/sensor/pH-sensor/InLab-Expert-Pro.html)
+    - [Digital Traceable Thermometer](https://www.traceable.com/4000-traceable-digital-thermometer.html)
+    - Saturated Mercuric Chloride (HgCl2) solution; follow SIlbiger Lab [Mercuric Chloride SOP](https://github.com/SilbigerLab/Titrator/blob/master/Protocols/Mercuric_Chloride_SOP.md)
 
 2. <a name="Protocol"></a> **Protocol**
     - 	Fill the extra bin for the source water at least 3/4 of the way full.
@@ -57,7 +59,7 @@ Contents
     -  When chamber is full and is free of bubbles, plug the probe holes with parafilmed pipet tips (200uL for temperature probe hole and 20uL for oxygen probe hole).
     -  Record the Start Time for each chamber, as soon as it is plugged.
     - Once the start time is recorded, bring the chambers to the respiration setup and set them in their allocated positions. 
-    - Once all chambers are plugged and placed in the respiration setup, set the light levels to ~500 PAR (using Ocean Revive lights this is 65% for both Ch 1 and Ch 2). 
+    - Once all chambers are plugged and placed in the respiration setup, set the light levels to ~500 PAR (using AI lights this is ~40% for all AI lights). 
     - Leave the chambers for 1 hr (this was done on 20200104).
     	-On 20200105 we tested 1.5 hours and the signals between 1 hour and 1.5 hours were compared. Since the 1.5 hours signal was much higher we will be running samples from here on out for 1.5 hours
     - Take temperature readings every 10 minutes. 
@@ -69,7 +71,6 @@ Contents
     - Poison all brown bottle samples using 75uL of saturated mercuric chloride. Invert the bottles to mix. **Make sure to perform this in the fume hood, wear appropriate PPE, and dispose of all hazardous waste appropriately)**.
     - After fixing all bottles, make sure the cap is screw on **TIGHTLY and parafilm the cap well**
     - When ready for transport, make sure each parafilmed bottle is placed in secondary containment when transporting (ie. put bottles in plastic sealable bag). Additionally, make sure the bottles are packed in the case that will be traveling in such a way that they will not knock around in transport all that much.
-    	-We had bottles explode in Pelican cases and lost samples because caps were not checked or wrapped or secondarily packed and now pelican cases are contaminated with Mercuric chloride! 
 
     
 4. <a name="References"></a> **References**
