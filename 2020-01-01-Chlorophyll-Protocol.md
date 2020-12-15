@@ -10,7 +10,7 @@ projects: E5, Putnam Lab
 # Quantifying Chl-a and Chl-c2 Concentration in Symbiodiniaceae from coral tissues 
 
 Original: 20200101  
-Last Revised: 20200101  
+Last Revised: 20201215  
 
 Contents  
 - [**Materials**](#Materials)   
@@ -31,7 +31,7 @@ Contents
 2. If not done already, centrifuge the 500 μL aliquot of adult airbrush homogenate at 13,000 rpm for 3 minutes to separate the host and Symbiodiniaceae cells.  
 3. Remove and discard the supernatant.  
 4. Add 1 mL of 100% acetone to the pellet in the 1.5 mL microcentrifuge tube and vortex the tubes for 15 sec.  
-5. Place tubes in the dark at 4°C for 24 hours.  
+5. Place the tubes in a fridge in the dark at 4°C for 24 hours.  
 6. Vortex the tubes for 15 sec.  
 7. Spin the tubes down at 13,000 rpm for 3 minutes to pellet any debris.  
 8. Pipette 200µl of sample to duplicate wells of 96-well quartz plate.   
