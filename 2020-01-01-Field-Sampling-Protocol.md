@@ -1,16 +1,16 @@
 ---
 layout: post
-title: XXXXXXXXX
+title: E5 Field Sampling Protocol
 date: '2020-01-01'
 categories: Protocols
-tags: XXXX, coral, physiology
+tags: *in situ* coral sampling, coral, physiology
 projects: E5, Putnam Lab
 ---
 
 # Standard protocol for Collection of Corals from the Field 
 
 Original: 220200101   
-Last Revised: 20200102  
+Last Revised: 20201215
 
 Contents  
 - [**Materials**](#Materials)  
@@ -78,14 +78,33 @@ Contents
 	- Drive back to Gump.
 	- For next steps, see [Sample Same Day Processing Protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Sample_Same_Day_Processing_Protocol.md)  
 	
-** WATER SAMPLES FOR DIN**  
+    ** WATER SAMPLE FOR DIN and DIP**  
+Modified from Silbiger Lab Protocols - [Water Column Nutrient Sampling](https://github.com/SilbigerLab/Protocols/blob/master/Environmental_Parameter_Protocols/Protocols/In_situ_nutrients_SOP.md) 
+
+**Materials**
+-  50 mL centrifuge tubes 
+-  -20°C freezer 
+-  0.7 μm 25 mm glass fiber filters (GF/F)
+-  Flow injection analyzer
+-  Luer-Lok tip 60 mL syringes 
+
+**Protocol**
+
+1.  Collect replicate *in situ* water samples at each site (n=2).
+2.  Carefully, bend over the boat into the water as far down as comfortable (about 50 cm below the surface) holding a closed tube or snorkel/SCUBA to the desired water column collection depth.
+3.  Rinse the tube 3 times by opening it underwater, filling it with seawater, closing it, returning it to the surface and emptying. Avoid going through the surface film with the tube open.
+4.  Fill the tube a final time underwater. Close and bring to the surface.
+5.  Decant to 40 mL and close tightly.
+6.  Filter all samples through a 0.7 μm GF/F using a luer-lok tip 60 mL syringe.
+7.  Place all samples in a -20°C freezer until analysis.
+8.  Submit samples to the University of California, Santa Barbara Marine Science Institute or comporable institution for phosphate, nitrate + nitrite, nitrite, silicate analysis using a flow injection analyzer.
 
 ** WATER SAMPLES FOR ZOOPLANKTON BIOMASS AND C:N**  
 
 
 4. <a name="References"></a> **References**
 
-    1.  XXXX
+    1.  Alldredge, A of Moorea Coral Reef LTER. 2019. MCR LTER: Coral Reef: Water Column: Nutrients, ongoing since 2005. knb-lter-mcr.1034.9 doi:10.6073/pasta/9328a024f2bf16ecc66024f07dbcc574
 
 
 
