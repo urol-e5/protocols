@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AAirbrushing
+title: Airbrushing
 date: '2020-01-01'
 categories: Protocols
 tags: airbrush, coral, physiology
@@ -10,7 +10,7 @@ projects: e5, Putnam Lab
 # Standard protocol for Airbrushing tissue from coral 
 
 Original: 2020-01-01  
-Last Revised: 2020-01-01
+Last Revised: 2020-12-15
 
 Contents  
 - [**Materials**](#Materials)  
@@ -34,10 +34,10 @@ Contents
 	2. Use forceps to place coral fragment in labeled ziplock bag (quart size)
 	3. Airbrush with 1X PBS (pH = 7.4)  
 		- Take care to remove tissue from entire surface area, including deep tissue
-		- Attempt to keep total blastate volume below 50mL to fit into one falcon tube (i.e., use PBS through airbrush efficiently!). It is 
+		- Attempt to keep total blastate volume below 50mL to fit into one falcon tube (i.e., use PBS through airbrush efficiently!). 
 	4. Transfer tissue slurry from the bag to a sterile 50mL falcon tube and rinse sides of bag with 1x PBS, adding rinsate to falcon tube.
 	5. Record total volume of tissue slurry and store on ice until homogenization
-	6. Homogenize slurry for 30 sec in falcon tube using Dremel Tissue-Tearor (Model 985370). If blastate is in multiple falcon tubes, homogenize each and pour back and forth between tubes to ensure even mixing.
+	6. Homogenize slurry for 30 sec in falcon tube using the [Bio-Gen PRO200 Homogenizer ](https://proscientific.com/hand-held-homogenizers/bio-gen-pro200-homogenizer/). If blastate is in multiple falcon tubes, homogenize each and pour back and forth between tubes to ensure even mixing.
 	7. Between each sample, clean the forceps and the homogenizer in a 10% bleach solution for 30 seconds, DI wash #1 for 30 seconds, DI wash #2 for 30 seconds, then wipe down with an isopropanol wipe.
 
 
@@ -54,7 +54,7 @@ Contents
 	- Add 1 mL homogenized tissue blastate to two of the 1.5-mL tubes.
 	- Centrifuge both 1.5-mL tubes at 13,000g for 3 min. 
 	- From one tube, pipet off supernatant (~1mL) and discard.
-		- *This is the chlorophyll assay tube:* Add 1mL acetone to resuspend the symbiont pellet, and place in 4°C fridge in LTER lab. See [chlorophyll assay](2020-01-01-Chlorophyll-Protocol.md) for more detail.
+		- *This is the chlorophyll assay tube:* The day before you run the chlorophyll assays, add 1mL acetone to resuspend the symbiont pellet, and place in 4°C fridge in LTER lab. See [chlorophyll assay](2020-01-01-Chlorophyll-Protocol.md) for more detail.
 	- From second tube, pipet off supernatant and transfer to a new labeled 1.5-mL tube. *This supernatant is the host protein/TAC/LPO assay tube:* Immediately place in -40°C until ready to proceed with the [protein assay](2020-01-01-Total-Protein-Protocol.md), [total antioxidant capacity assay](2020-01-01-Total-Antioxidant-Capacity-Protocol.md), and/or lipid peroxidation assay.
 	- To the second symbiont pellet, add 1mL 1xPBS to resuspend pellet. Vortex thoroughly and pipet up and down to fully dissolve pellet. 
 	- Once dissolved, transfer 500 µL to a new labeled 1.5-mL tube. *This is the symbiont protein/TAC/LPO assay tube:* Immediately place in -40°C until ready to proceed with the protein, antioxidant, and/or lipid peroxidation assays (see links above).
