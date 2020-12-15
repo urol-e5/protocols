@@ -10,7 +10,7 @@ projects: E5, Putnam Lab
 # Standard protocol for ash-free dry weight 
 
 Original: 20190131    
-Last Revised: 20200101  
+Last Revised: 20201215
 
 Contents  
 - [**Materials**](#Materials)    
@@ -30,13 +30,18 @@ Contents
 2. <a name="Protocol"></a> **Protocol**
 
     1.  Obtain aluminum weigh pans to be used in AFDW determination
-    2.  Label each pan with an ID number. May use a spatula to scrape a # into bottom of pan, or use pencil. Marker WILL burn off!
+    2.  Label each pan with an ID number. May use a spatula to scrape a # into bottom of pan, or use pencil. Marker WILL burn off! 
+            - Notes: if you run out of aluminum pans, you can use aluminum foil sheets to make your own. Cut
+                the aluminum foil into a ~4" x 4" square and press the sides of the aluminum foil around a 50mL glass beaker
+                making sure to make a flattened bottom for the pan. Label with pencil, make sure to scrape it well but
+                carefully, as they are more fragile than the pans.
     3.  After labeling, burn in the muffle furnace at 450°C for 4-6 h (some papers use 500°C for 4 or 6). 
     	    - Turn on muffle furnace
 	    - If Run light is on, press once to turn off
 	    - Press Menu: screen should read 'NO PROG'
 	    - Press Up arrow: screen should read 'YES PROG'
 	    - Press Run. If blinking, press Run again.  
+            - If for some reason the program has been erased, follow the [(Muffle Furnace Manual)](https://vdocuments.mx/isotemp-programmable-muffle-furnace-650-750-series-650-750-series-instruction-manual.html) to reset the program to run at 450°C for 4-6 h. 
     4. 	After, remove from the muffle furnace, place in a glass desiccator and transport to the scale room.
 	*Take care after this point that pans are not touched without gloves on, and that pans are ALWAYS sat on burned aluminum foil on tabletops and in ovens/furnaces/scales*
     5.  Record weight of burned pans on 4-decimal place scale (= “C” in Table 1.) Make sure you are using clean gloves or tweezers to weight the pans.
@@ -56,7 +61,8 @@ Contents
 	    - If Run light is on, press once to turn off
 	    - Press Menu: screen should read 'NO PROG'
 	    - Press Up arrow: screen should read 'YES PROG'
-	    - Press Run. If blinking, press Run again.  
+	    - Press Run. If blinking, press Run again. 
+           - If for some reason the program has been erased, follow the [(Muffle Furnace Manual)](https://vdocuments.mx/isotemp-programmable-muffle-furnace-650-750-series-650-750-series-instruction-manual.html) to reset the program to run at 450°C for 4-6 h. 
 Most literature uses a 6h burn period, but in preliminary tests of blastate 4h is sufficient to burn off the well dispersed (high SA of blastate in pans) residue. Oven also stays hot after turning off, so even at 4h (30 ramp up, 30 min ramp down + residual heat in oven…) the oven will be hot for some time.
 	*NOTE: The organic fraction will burn off at 450°C leaving only salt and inorganics behind. The difference between the dry weight and burned weight is the organic fraction of biomass.*
     18.  Let pans cool and place in desiccator and transport to the scale. Avoid transporting when warm, it will cause water to adhere to pans.
