@@ -65,7 +65,7 @@ Setting up the respirometry system for the first time in a new place:
 
     **In Mo'orea, E5 March, September, and November 2020 timepoints desired light intensities and percentages recorded below**
     
-    ![AI_light_settings](https://github.com/urol-e5/protocols/blob/master/images/AI-light_settings.pdf)
+    ![AI_light_settings](https://github.com/urol-e5/protocols/blob/master/images/AI_light_settings.pdf)
 
 <a name="Bath"></a> **Water Bath Setup**
 
