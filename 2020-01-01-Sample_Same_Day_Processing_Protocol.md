@@ -9,7 +9,7 @@ projects: E5, Putnam Lab
 
 # Standard protocol for sample same day processing
 Original: 20200101   
-Last Revised: 20200104  
+Last Revised: 20201215 
 
 Contents  
 - [**Materials**](#Materials)    
@@ -41,8 +41,8 @@ Contents
 		-  Ziptie each label onto its corresponding coral loosely.
 		-  Make a labelled map on waterproof paper to sit at the bottom of the water table. Place each coral sample over its allocated spot as a means of secondary identification.
 		-  Take a photo of the corals on their maps in the water table.
-	-  Turbinaria sample processing
-		-  Take bags of Turbinaria to water table and empty out bag.
+	-  *Turbinaria* sample processing
+		-  Take bags of *Turbinaria* to water table and empty out bag.
 		-  For each "frond" remove one "cup" that is at least 2-3 cm (~1 inch) from the top, but make sure it is also not the bottom of the "frond".
 		-  Using a toothbrush, scrub off all epiphytes. You may have to use fingernails to get into crevices and clean it fully. A clean "cup" should be yellowish brown with reddish spots. 
 		-  Clean one "cup" from each of 100 "fronds" for a total of 100 "cups".
