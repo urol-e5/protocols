@@ -14,7 +14,7 @@ Last Revised: 20201215
 
 Modified from Silbiger Lab Protocols - [Respirometer Manual](https://github.com/SilbigerLab/Respirometry/blob/master/Respirometer_SOP.md) 
 
-Protocol for set-up and take-down of the respirometer in conjunction with the Oxy-10 probes and PreSens program ([manual found here](/PreSens_SOP.md)).
+Protocol for set-up and take-down of the respirometer in conjunction with the Oxy-10 probes and PreSens program ([User Manual Here](/PreSens_SOP.md)).
 
 
 **Contents**
