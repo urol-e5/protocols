@@ -1,16 +1,16 @@
 ---
 layout: post
-title: XXXXXXXXX
+title: Logger Protocol
 date: '2020-01-01'
 categories: Protocols
 tags: loggers, pH, PAR, temperature, conductivity
 projects: E5, Putnam Lab
 ---
 
-# Standard protocol for Collection of Corals from the Field
+# Logger Protocol 
 
 Original: 220200111   
-Last Revised: 20200111
+Last Revised: 20201215
 
 Contents  
 - [**HOBO_U24_Conductivity_Logger**](#Conductivity)
