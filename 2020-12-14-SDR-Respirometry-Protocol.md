@@ -10,7 +10,7 @@ projects: E5, Putnam Lab
 # SDR Respirometry Protocol
 
 Original: 20201214
-Last Revised: 20201214
+Last Revised: 20210108
 
 **Contents**
 - [**Supplies**](#Supplies)
@@ -63,17 +63,17 @@ Last Revised: 20201214
 Setting up the SDR sensor plates and accompanying system for the first time in a new place:
 
 1. Suspend an AI light above each SDR plate and follow the [(AI Light Protocol)](https://github.com/urol-e5/protocols/blob/master/2020-03-18-AI-Lights.md) for set up instructions. Notes: make sure to check what saturating light conditions your study organism needs for Photosynthesis trials. To calculate saturating light conditions, follow the [(PI Curve Protocol)](https://github.com/urol-e5/protocols/blob/master/2020-01-01-PI-Curve-Protocol.md)
-2. Assemble SDR reader following the [(SDR SensorDish Reader Installation Video)](https://www.youtube.com/watch?v=F0_b4Ws6Eow&feature=youtu.be). Connect the SDR plate readers to the USB port on the computer and open the LoligoⓇ MicroResp™ Software. 
-3. To ensure that the correct saturating light level is set on the AI light, follow the [(Apogee User Manual)](https://www.apogeeinstruments.com/content/MQ-500.pdf). Situate the Apogee above the SDR plate and take ~ 8 readings at various positions around the SDR plate to get an average light measurement. Adjust the placement of the SDR plate, light stand, and AI light as necessary to attain desired light intensities. Ideally, light levels should be as equal as possible across the different positions across the 2 SDR plates. Note: In Mo’orea, average saturating light level for *Acropora hyacinthus* larvae should be set at ~500 PFD. 
+2. Assemble SDR reader following the [(SDR SensorDish Reader Installation Video)](https://www.youtube.com/watch?v=F0_b4Ws6Eow&feature=youtu.be). Connect the SDR plate readers to the USB port on the computer and open the LoligoⓇ MicroResp™ Software. Load the correct calibration file for the instrumentation used. For the Loligo 1624 Microplate the calibration files can be found here: [(Calibration Files)](https://www.loligosystems.com/microplate-data)
+3. To ensure that the correct saturating light level is set on the AI light, follow the [(Apogee User Manual)](https://www.apogeeinstruments.com/content/MQ-500.pdf). Situate the Apogee above the SDR plate and take ~ 8 readings at various positions around the SDR plate to get an average light measurement. Adjust the placement of the SDR plate, light stand, and AI light as necessary to attain desired light intensities. Ideally, light levels should be as equal as possible across the different positions across the 2 SDR plates. For example, in Mo’orea, average saturating light level for *Acropora hyacinthus* larvae should be set at ~500 PFD. 
 4. Record the AI light setting and position combinations required to obtain each desired light intensity to use in Photosynthesis trials.
-5. See comment 
+5. If possible, assemble and run the equipment in a temperaure-controlled environment, such as an incubator. Fluctuations in room temperature and increases in temperature due to the use of LED lighting can influence measurements. Temperature control using an incubator will allow for respiration measurements in treatment conditions if desired.  
 
 <a name="Sample_Preparation"></a> **Sample Preparation**
 
 1. Set up SDR respirometry equipment (see [**Initial Setup**](#Initial_Setup) for details). Set oxygen concentration in units of umol/L. 
-2. Load samples into wells, loading 22 wells with samples and 2 with FSW as blanks. Randomize the location for each run (see XXX for details). Use 6-8 larvae per well. If possible, run a quick trial in 3-5 wells to see if 6-8 larvae provide a signal in Photosynthesis and Respiration. If necessary, you can include more larvae per well - just record the number of larvae you use. 
-3. Seal the plate with coverslips. See video HERE and refer to protocol for details. 
-4. Make sure that the OxoDish or HydroDish are correctly aligned over the middle of the lasers on the SDR SensorDish Readers.
+2. Load samples (coral larvae, fragments, recruits) into wells, loading 22 wells with samples and 2 with filtered sea water (FSW) as blanks. Randomize the location of blanks for each run to limit well-specific differences in blank samples. If possible, run titration trials to determine optimal sample size/density (e.g., fragment size, number of larvae) to obtain signals that differentiate from blanks. If running respirometry on swimming larvae, a general benchmark for spawning species (*M. capitata*, *A. hyacinthus*) is to use 6-8 larvae per well. Record the number of larvae, size of samples, added to each well in a metadata sheet. 
+3. Once all samples are loaded in the plate, including blanks, seal each well with a glass coverslip. See video example of sealing wells here: [(Sealing Wells Video)](https://github.com/urol-e5/protocols/blob/master/images/Well_Loading_Example_Resp.mov) 
+4. Make sure that the OxoDish or HydroDish are correctly aligned over the middle of the lasers on the SDR SensorDish Readers. 
 5. The SensorDishes can easily be positioned on the SDR due to a groove in the housing of the SDR.
 
 ![Fig. 1](https://github.com/urol-e5/protocols/blob/master/images/Figure_1.png)
@@ -87,13 +87,16 @@ Setting up the SDR sensor plates and accompanying system for the first time in a
 
 <a name="Photosynthesis"></a> **Photosynthesis**
 
-1. Turn AI lights on 30% intensity for all channels (~500 PAR). Collect data under light for 30 minutes. Oxygen measurements will appear “jumpy” under the light. Look for an increase in oxygen that is different from the blanks.
-2. Run 1 full plate. No need to do more than 1 run unless there is a problem with the first run (lots of bubbles, tech issues, etc.). This should take about 1 hour run time + 1 hour set up/clean up.
-3. Export data and save. Label the saved files with the following name format: “Date_RunID”. Because there is only 1 run per day, the format will be: “Date_Run1”. If more runs are needed, use Run2, Run3, etc.
+1. Turn AI lights to desired intensity. Due to temperature increases that can occur under light, it is recommended to run under temperature controlled conditions. To achieve 500 PAR, set Aqua Illumination lights to 30% intensity for all channels. Collect data under light for a period of time that allows for suffient time for slope to be displayed (recommended to run for 30 minutes). Oxygen measurements will appear “jumpy” under the light as the SDR plate readings are variable under light. For this reason, be sure to run photosynthesis runs to provide enough data for analysis to extract a representative slope. If samples are symbiotic, look for an increase in oxygen that is different from the blanks.
+2. Run photosynthesis before respiration to avoid hypoxic conditions. Running 1 full plate will provide n=22 samples. Run as many plates to obtain desired sample size or run all treatment conditiosn. During run, watch for bubbles and breakages in well sealing and note these issues on metadata sheet. These wells will need to be excluded from analyses. It is therefore important to ensure a quality seal before the run begins and re-seal any wells that show bubbles prior to running. 
+3. If running P and R runs on each plate, there are two options for separating data from these runs. First, you can export data and save after P and again after R. Alternatively, you can record the time that P stops and R begins. See data analysis section below for repository references that utilize these optiosn. Label the saved files with the following name format: “Date_RunID”. If more runs are needed, use Run2, Run3, etc. This file format is suggested - use file names that are informative and appropriate to the experiment. 
+4. Export data files in .xlsx format and convert to .csv for data analysis. 
 
 <a name="Respiration"></a> **Respiration**
 
-1. Turn off lights. Collect data under darkness for 30 minutes. Look for a decrease in oxygen that is different from the blanks. Respiration measurements will be much more stable than Photosynthesis measurements.  
+1. Turn off lights. Collect data under darkness for a period of time in which a stable signal is recorded that is different than the blanks and sustained, recommended to run for 30 minutes. Look for a decrease in oxygen that is different from the blanks. Respiration measurements will be much more stable than Photosynthesis measurements.  
+2. Export data files in .xlsx format and convert to .csv for data analysis. 
+2. Total run time for P + R run takes about 1 hour run time + 1 hour set up/clean up. 
 
 <a name="pH"></a> **pH**
 
@@ -104,11 +107,21 @@ https://www.presens.de/index.php?eID=dumpFile&t=f&f=1103&token=6ec566be81833841f
 
 <a name="Final_Checks"></a> **Final Checks**
 
-1. 
+1. Ensure complete recording of sample information, well and plate numbers, and notes (bubbles, problems with seal) as well as P and R run times in metadata sheets. See example repositories below for examples. 
+2. Ensure data downloaded completely from each run. This should include oxygen concentrations for each well as well as simulataneous temperature measurements. Data output will vary depending on software system.  
 
 <a name="Data_Analysis"></a> **Data Analysis**
 
-1. 
+1. Data are analyzed by formating and preparing data and extracting slopes using the LolinR package. There are variations of analysis applications depending on experimental use. 
+
+Refer to these repositories and notebooks for data analysis and workflows for respirometry data: 
+
+[Kevin Wong Notebook] (https://kevinhwong1.github.io/KevinHWong_Notebook/)  
+[Sam Gurr Notebook] (https://samgurr.github.io/SamJGurr_Lab_Notebook/)   
+[Ariana Huffmyer Notebook] (https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/)  
+
+[Ariana Huffmyer Git Repository: M. capitata and A. hyacinthus P and R] (https://github.com/AHuffmyer/EarlyLifeHistory_Energetics)    
+[Kevin Wong Git] (https://github.com/kevinhwong1)    
 
 <a name="Take-Down"></a> **Take-Down and Clean Up**
 
