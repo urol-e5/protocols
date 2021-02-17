@@ -55,6 +55,9 @@ Last Revised: 20210217
 1.  Allow the dowels to cool to room temperature before taking the final wax weight (~15-20 minutes).
 1.  Once the wax dipped dowels have dried fully, take the final weight using the analytical scale to the nearest 0.0001 grams.
 1.  Enter the initial and final weights into your spreadsheet.
+
+#### The rest of this protocol is completed in the [surface area script](https://github.com/urol-e5/timeseries/blob/master/timepoint_1/scripts/surface_area.Rmd)
+
 1.  Using the diameter (mm) of your wooden dowels, calculate the radius.
   - Radius (r) = diameter (D) / 2.
 1.  Calculate the surface area of your wooden dowels using the surface area equation:
@@ -66,13 +69,13 @@ Last Revised: 20210217
   - slope = 0.025
   - y-intercept = 0.0043
 
-![Example Standard Curve](https://raw.githubusercontent.com/SilbigerLab/Protocols/master/Physiological_Parameter_Protocols/Images/SA_StCurve.png)
+![Example Standard Curve](https://raw.githubusercontent.com/urol-e5/protocols/master/images/SA_StCurve.png)
 
 
 
-##Measuring coral surface area
+#### Measuring coral surface area
 
-1.  After following the [tissue removal protocol](Tissue_removal_SOP.md) on fresh or thawed corals, place coral skeletons on labeled aluminum foil in the drying oven at 60 °C for 4 h.
+1.  After following the [airbrushing protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Airbrushing.md) on fresh or thawed corals, place coral skeletons on labeled aluminum foil in the drying oven at 60 °C for 4 h.
 1.  Once the coral skeletons are dry (make sure there are no water droplets left), weigh the coral skeletons to the nearest 0.0001 grams.
 1.  Using the tweezers, grab the base of the coral skeleton, if you can see where there was dead tissue, use this area to hold onto the skeleton.   
     - You want to make sure you are submerging all areas of the coral skeleton that had tissue cover.
@@ -80,14 +83,12 @@ Last Revised: 20210217
 1.  Place dipped coral skeletons onto labeled aluminum foil.
 1.  Allow coral skeletons to dry to room temperature before taking the final weight.
 1.  Once the dipped corals cool to room temperature, weigh each coral sample to the nearest 0.0001 grams.
-1.  Make a table to calculate the surface area of your individual samples. Use the equation below in the surface area column:
+1.  Make a table to calculate the surface area of your individual samples.
 
-  - =(weight of wax + slope) / y-intercept
-  - =(A4+0.0043)/0.025
-
-  **colony_id**|**weight1.g**|**weight2.g**|**weight.of.wax.g**|**surface.area.cm2**|
+  **colony_id**|**sample**|**diameter**|**weight1.g**|**weight2.g**|
   :-----:|:-----:|:-----:|:-----:|:-----:|
-  POC-47	|	16.277 | 18.785 | 2.508 | 100.5
+  ACR-139	|Coral	|NA	|4.1315|	4.4772
+1. Use the [surface area script](https://github.com/urol-e5/timeseries/blob/master/timepoint_1/scripts/surface_area.Rmd) in your timepoint to get an output file with your samples surface area values.
 
 
 
