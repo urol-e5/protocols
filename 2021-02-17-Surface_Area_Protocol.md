@@ -31,7 +31,7 @@ Last Revised: 20210217
 
 <a name="Protocol"></a> **Protocol**
 
-####Creating the surface area standard curve of mass change of wax dipped dowels against geometrically calculated surface area. You want your standard curve to have an an R<sup>2</sup> value greater than 0.9.
+#### Creating the surface area standard curve of mass change of wax dipped dowels against geometrically calculated surface area. You want your standard curve to have an an R<sup>2</sup> value greater than 0.9.
 
 1.  Make a table with the known dimensions of your wooden dowels to be used as standards:
 
