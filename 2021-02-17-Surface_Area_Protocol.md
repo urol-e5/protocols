@@ -88,7 +88,7 @@ Last Revised: 20210217
   **colony_id**|**sample**|**diameter**|**weight1.g**|**weight2.g**|
   :-----:|:-----:|:-----:|:-----:|:-----:|
   ACR-139	|Coral	|NA	|4.1315|	4.4772
-1. Use the [surface area script](https://github.com/urol-e5/timeseries/blob/master/timepoint_1/scripts/surface_area.Rmd) in your timepoint to get an output file with your samples surface area values.
+1. Use the [surface area script](https://github.com/urol-e5/timeseries/blob/master/timepoint_1/scripts/surface_area.Rmd) to create an output file with your samples surface area values.
 
 
 
