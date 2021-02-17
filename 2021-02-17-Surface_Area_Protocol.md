@@ -60,10 +60,10 @@ Last Revised: 20210217
 
 1.  Using the diameter (mm) of your wooden dowels, calculate the radius.
   - Radius (r) = diameter (D) / 2.
-1.  Calculate the surface area of your wooden dowels using the surface area equation:
+2.  Calculate the surface area of your wooden dowels using the surface area equation:
   - SA = 4πr<sup>2</sup>
-1.  Plot the relationship of the surface area (cm<sup>2</sup>) on the x-axis to the weight of the wax (g) on the y-axis to check if your standard curve has an R<sup>2</sup> value greater than 0.9.
-1. Using the plot, calculate the curve coefficients for the slope and the y-intercept to apply as the standard (this information will be used later to calculate the surface area for your samples).
+3.  Plot the relationship of the surface area (cm<sup>2</sup>) on the x-axis to the weight of the wax (g) on the y-axis to check if your standard curve has an R<sup>2</sup> value greater than 0.9.
+4. Using the plot, calculate the curve coefficients for the slope and the y-intercept to apply as the standard (this information will be used later to calculate the surface area for your samples).
   - y=mx+b
   - x=(y-b)/m
   - slope = 0.025
