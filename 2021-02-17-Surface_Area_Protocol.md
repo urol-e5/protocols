@@ -31,7 +31,7 @@ Last Revised: 20210217
 
 <a name="Protocol"></a> **Protocol**
 
-##Creating the surface area standard curve of mass change of wax dipped dowels against geometrically calculated surface area. You want your standard curve to have an an R<sup>2</sup> value greater than 0.9.
+####Creating the surface area standard curve of mass change of wax dipped dowels against geometrically calculated surface area. You want your standard curve to have an an R<sup>2</sup> value greater than 0.9.
 
 1.  Make a table with the known dimensions of your wooden dowels to be used as standards:
 
@@ -88,7 +88,7 @@ Last Revised: 20210217
   **colony_id**|**sample**|**diameter**|**weight1.g**|**weight2.g**|
   :-----:|:-----:|:-----:|:-----:|:-----:|
   ACR-139	|Coral	|NA	|4.1315|	4.4772
-1. Use the [surface area script](https://github.com/urol-e5/timeseries/blob/master/timepoint_1/scripts/surface_area.Rmd) to create an output file with your samples surface area values.
+9. Use the [surface area script](https://github.com/urol-e5/timeseries/blob/master/timepoint_1/scripts/surface_area.Rmd) to create an output file with your samples surface area values.
 
 
 
