@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SDR Respirometry Protocol
-date: '2020-12-14'
+date: '2021-03-31'
 categories: Protocols
 tags: respirometry, coral, physiology
 projects: E5, Putnam Lab
@@ -10,7 +10,7 @@ projects: E5, Putnam Lab
 # SDR Respirometry Protocol
 
 Original: 20201214
-Last Revised: 20210108
+Last Revised: 20210331
 
 **Contents**
 - [**Supplies**](#Supplies)
