@@ -36,7 +36,9 @@ Contents
 1.  Sterilize the mortar and pestle with 70% ethanol before use.
 1.  Label all microcentrifuge tubes (ex: Timepoint-Collection Date-Site#-Tube#). We have decided to process 10 samples per site per time point (120 total samples.
 1.  Crush samples into a very fine powder using a mortar and pestal.
+
     ![Example of finely crushed algae](https://raw.githubusercontent.com/urol-e5/protocols/master/images/fine_algae.png)
+    
 1.  Sterilize the mortar and pestal in between each sample with 70% ethanol and KimWipes.
 1.  Carefully scoop all of the fine powdered material into a 1.5 mL centrifuge tube using the scoopula.
 1.  Sterilize the scoopula with 70% ethanol and let all materials dry or use a KimWipe between each sample.
