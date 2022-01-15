@@ -52,7 +52,7 @@ Follow the [Synergy HTX Operating Manual](https://github.com/urol-e5/protocols/b
 1. Open the Gen5 software on your computer.
 2. Whenever you start Gen5, the Task Manager opens. In Mo'orea, protocols (including chlorophyll) have been created on the Gen5 software on the HP Putnam Lab computer, so you can select the pre-made protocols from the dropdown menu.
 
-![task.manager]()
+![task.manager](https://github.com/urol-e5/protocols/blob/master/images/task.manager.jpg)
 
 
 3. To create a new protocol, follow the 'Getting Started' section in the [Gen5 Software Manual](https://github.com/urol-e5/protocols/blob/master/Gen5_software_manual.pdf).
