@@ -47,7 +47,18 @@ Contents
 
 **Measure the Absorbance**  
 
-Following the Synergy HTX manual
+Follow the [Synergy HTX Operating Manual](https://github.com/urol-e5/protocols/blob/master/synergy_htx_manual.pdf) and [Gen5 Software Manual](https://github.com/urol-e5/protocols/blob/master/Gen5_software_manual.pdf) to install the software on your host computer and general operating instructions.
+
+1. Open the Gen5 software on your computer.
+2. Whenever you start Gen5, the Task Manager opens. In Mo'orea, protocols (including chlorophyll) have been created on the Gen5 software on the HP Putnam Lab computer, so you can select the pre-made protocols from the dropdown menu.
+
+![task.manager]()
+
+
+3. To create a new protocol, follow the 'Getting Started' section in the [Gen5 Software Manual](https://github.com/urol-e5/protocols/blob/master/Gen5_software_manual.pdf).
+4. To measure Absorbance, select the 'Chlorophyll Protocol' option
+
+
 
 
 **Calculating Chlorophyll Concentration**  
