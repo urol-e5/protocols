@@ -30,6 +30,22 @@ Contents
 
 **2. <a name="Protocol"></a> Protocol**
 
+**Set up**
+1. Plug in the Synergy HTX Multi-Mode Microplate Reader to a **110V** outlet. The input for this equipment is from 100-240V but to be safe use a surge protected extension cord found in the second Putnam Lab Drawer on the molecular bench. 
+
+![plug](https://raw.githubusercontent.com/urol-e5/protocols/master/images/spec_outlet.jpeg)
+
+2. Plug in the Synergy HTX Multi-Mode Microplate Reader USB cord to the Putnam Lab dell laptop also in the second Putnam Lab Drawer on the molecular bench. 
+
+![spec](https://raw.githubusercontent.com/urol-e5/protocols/master/images/spec_chlorophyll2.jpeg)
+
+![spec.2](https://raw.githubusercontent.com/urol-e5/protocols/master/images/spec_chlorophyll.jpeg)
+
+
+3. Plug the DELL laptop charging cord into the surge protected 110V extension cord as well.
+
+![](https://raw.githubusercontent.com/urol-e5/protocols/master/images/spec_chloro.jpeg)
+
 **Sample Preparation**  
 1. Thaw homogenate aliquot.  
 2. If not done already, centrifuge the 500 μL aliquot of adult airbrush homogenate at 13,000 rpm for 3 minutes to separate the host and Symbiodiniaceae cells.  
@@ -50,17 +66,20 @@ Contents
 Follow the [Synergy HTX Operating Manual](https://github.com/urol-e5/protocols/blob/master/synergy_htx_manual.pdf) and [Gen5 Software Manual](https://github.com/urol-e5/protocols/blob/master/Gen5_software_manual.pdf) to install the software on your host computer and general operating instructions.
 
 1. Open the Gen5 software on your computer.
+
+![software](https://raw.githubusercontent.com/urol-e5/protocols/master/images/GEN5_chloro.jpeg)
+
+
 2. Whenever you start Gen5, the Task Manager opens. In Mo'orea, protocols (including chlorophyll) have been created on the Gen5 software on the HP Putnam Lab computer, so you can select the pre-made protocols from the dropdown menu.
-
-![task.manager](https://github.com/urol-e5/protocols/blob/master/images/task.manager.jpg)
-
-
 3. To create a new protocol, follow the 'Getting Started' section in the [Gen5 Software Manual](https://github.com/urol-e5/protocols/blob/master/Gen5_software_manual.pdf).
-4. To measure Absorbance, select the 'Chlorophyll Protocol' option.
+4. The plate loader should automatically open. Load your plate following the distinctions in the plate loader and you will be all set.
+5. To measure Absorbance, select the 'Chlorophyll Protocol' option.
 
-**add photos and remaining instructions once we can see next steps on moorea computer**
+![task.manager](https://raw.githubusercontent.com/urol-e5/protocols/master/images/GEN5_software.jpeg)
 
-
+6. Press the green start protocol button in the GEN5 software and allow the protocol to run through the 630, 663, and 750 nm.
+7. Export the raw GEN5 software data file and a CSV to the Desktop in a designated folder. Also, immediately upload to a google drive folder to have for future use. 
+8. Standardize for path length in 200µl of sample in 96-well quartz plate.
 
 
 **Calculating Chlorophyll Concentration**  
