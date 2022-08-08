@@ -38,6 +38,8 @@ Contents
 [Pierce BCA Protein Assay Kit](/Users/hputnam/MyProjects/urol-e5/protocols/images/Pierce_BCA_Protein_Assay_UG.pdf). 
 
 **Adult Tissue Sample Preparation for Soluble and Insoluble Protein from Holobiont**  
+
+**Adult Tissue Sample Preparation for Insoluble Protein from Host**
 1. Thaw a 500 μL aliquot of tissue homogenate.  
 2. Vortex to re-suspend the symbiont cell pellet.   
 5. Add 10 μL of 1M NaOH (pH should be ~10) to the tube.  Experiments may be needed prior to use to determine if volume is appropriate for species of choice.
@@ -47,6 +49,9 @@ Contents
 9. **_It is critical to record exactly how much volume of NaOH and HCl was added_**
 
 **Adult Tissue Sample Preparation for Soluble Protein from Host**  
+
+![alt text here](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/images/BCA_protocol.png)
+
 1. Thaw the 500 μL aliquot of host only supernatant.    
 
 **Preparation of Diluted Albumin (BSA) Standards**    
