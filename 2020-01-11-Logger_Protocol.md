@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Logger Protocol
+title: Moorea Daily Measurements Protocol
 date: '2020-01-01'
 categories: Protocols
 tags: loggers, pH, PAR, temperature, conductivity
