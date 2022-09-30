@@ -25,8 +25,8 @@ The daily measurements that are included in this protocol are:
 
 Start a data sheet with the following headers.  
 
-| Date  | Time | Tank.ID | pH (mV) | temperature (C) | conductivity |  Flow (mL / 10 sec)   
-| ------------- | ------------- | ------------- | ------------- | ------------ | ------------ |  ------------ |  
+| Date  | Time | Tank.ID | pH (mV) | Temperature (C) | conductivity |  Flow (mL / 5 sec) initial  |  Flow (mL / 5 sec) final 
+| ------------- | ------------- | ------------- | ------------- | ------------ | ------------ |  ------------ |  ------------ | 
 
 Start a second data sheet with the following headers.  
 
@@ -39,11 +39,11 @@ The probe container looks like this:
 
 ## 1. Flow Rate  
 
-1. Place a 500 mL nalgene bottle or other container with graduation marks under the water drain for each tank. Set a stopwatch for 5 sec and fill the falcon tube/bottle. Record the mL of water in a datasheet for daily measurements.   
+1. Place a 500 mL nalgene bottle or other container with graduation marks under the water drain for each tank. Set a stopwatch for 5 sec and fill the falcon tube/bottle. Record the mL of water in a datasheet for daily measurements ("flow initial".   
 
 2. After all tanks have been measured, adjust water flow if necessary to obtain similar flow in each tank.  
 
-3. If flow is changed, measure flow again in all tanks.  
+3. If flow is changed, measure flow again in all tanks ("flow final").  
 
 ## 2. pH (mV) and conductivity (psu)   
 
