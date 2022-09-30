@@ -10,7 +10,7 @@ projects: E5, Putnam Lab
 # Daily Measurement Protocol - Moorea E5  
 
 Original: 20220924   
-Last Revised: 20220924  
+Last Revised: 20220929  
 
 # Overivew  
 
@@ -25,13 +25,21 @@ The daily measurements that are included in this protocol are:
 
 Start a data sheet with the following headers.  
 
-| Date  | Time | Tank.ID | pH (mV) | temperature (C) | conductivity | Light (PAR) | Flow (mL / 10 sec)   
-| ------------- | ------------- | ------------- | ------------- | ------------ | ------------ |  ------------ | ------------ | 
+| Date  | Time | Tank.ID | pH (mV) | temperature (C) | conductivity |  Flow (mL / 10 sec)   
+| ------------- | ------------- | ------------- | ------------- | ------------ | ------------ |  ------------ |  
 
+Start a second data sheet with the following headers.  
+
+| Date  | Time | Tank.ID | Location | Light (PAR) |    
+| ------------- | ------------- | ------------- | ------------- |  ------------ |  
+
+The probe container looks like this:  
+
+![probes](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/dailyprobes.jpeg)
 
 ## 1. Flow Rate  
 
-1. Place a 50 mL falcon tube or 100-500 mL nalgene bottle with graduation marks under the water source for each tank. Set a stopwatch for 10 sec and fill the falcon tube/bottle. Record the mL of water in a datasheet for daily measurements.   
+1. Place a 500 mL nalgene bottle or other container with graduation marks under the water drain for each tank. Set a stopwatch for 5 sec and fill the falcon tube/bottle. Record the mL of water in a datasheet for daily measurements.   
 
 2. After all tanks have been measured, adjust water flow if necessary to obtain similar flow in each tank.  
 
@@ -79,9 +87,11 @@ NOTE: record all temperature measurements in Celsius.
 2. Take the plastic cover off of the light sensor.  
 3. Place the sensor in the water facing upwards at the depth of the corals *at the center of the tank*.  
 4. Record the light level. 
-5. Now record the light level in the center of each of four quandrants in the tank. 
+5. Now record the light level in the *center of each of four quandrants in the tank* (see photo below). 
 6. This will result in 5 light measurements in each tank.  
 7. Turn the probe off.  
+
+![light locations](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/lightquads.png)  
 
 ## Clean up  
 
