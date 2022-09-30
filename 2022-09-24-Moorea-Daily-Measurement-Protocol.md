@@ -81,7 +81,7 @@ NOTE: record all temperature measurements in Celsius.
 5. Press the "ON/OFF" button to turn the probe off. 
 6. Record temperature at the same time as pH/conductivity.  
 
-## 5. Light (PAR)  
+## 5. Light (PAR)    
 
 1. Press the power button on the Apogee light sensor. 
 2. Take the plastic cover off of the light sensor.  
