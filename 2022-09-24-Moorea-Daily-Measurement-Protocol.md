@@ -23,15 +23,12 @@ The daily measurements that are included in this protocol are:
 4. Temperature (C)  
 5. Light (PAR)  
 
-Start a data sheet with the following headers.  
+The data sheet will have the following headers:  
 
-| Date  | Time | Tank.ID | pH (mV) | Temperature (C) | conductivity |  Flow (mL / 5 sec) initial  |  Flow (mL / 5 sec) final 
-| ------------- | ------------- | ------------- | ------------- | ------------ | ------------ |  ------------ |  ------------ | 
+| Date  | Time | Tank.ID | pH (mV) | Temperature (C) | conductivity |  Flow (mL / 5 sec) initial  |  Flow (mL / 5 sec) final | PAR.center | PAR.q1 | PAR.q2 | PAR.q3 | PAR.q4 |
+| ------------- | ------------- | ------------- | ------------- | ------------ | ------------ |  ------------ |  ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
 
-Start a second data sheet with the following headers.  
-
-| Date  | Time | Tank.ID | Location | Light (PAR) |    
-| ------------- | ------------- | ------------- | ------------- |  ------------ |  
+[The daily measurements data sheet can be found here](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/environmental/daily_measurements/daily_measurements.csv).  
 
 The probe container looks like this:  
 
