@@ -10,7 +10,7 @@ projects: E5, Putnam Lab
 # Baseline Measurements Sampling Protocol - E5 *A. pulchra* metabolism project   
 
 Original: 20220930   
-Last Revised: 20220930 
+Last Revised: 20221002 
 Contact Ariana Huffmyer at ashuffmyer@uri.edu with any questions.   
 
 # Overivew  
@@ -107,10 +107,14 @@ First, take a photograph of each fragment for reference of pigmentation and size
 - Remove fragments that need to be sampled of one genotype at a time to do all processing steps below before moving onto the next fragment (n=4 fragments of A, B, C, D, E, F in turn). Place fragments in a small cooler filled with seawater. Each time fragments are removed for processing, record the date sampled on the [fragment tracking and metadata sheet](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/fragments.csv).  
 - Remove/clean algae from string and coral fragment.  
 - Place the fragment at the bottom of a shallow bin on top of waterproof paper. Place a ruler with color standard (R, G, B) next to the fragment. Place the clip with fragment label in the frame of the photograph.
-- Take a picture and 
-- After all photographs are completed for the day, save the photos in the E5 [apulchra_metabolism GitHub repo in the fragmetn_photos folder here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data). 
+- Take a picture with your phone or a camera.   
+- After all photographs are completed for the day, save the photos in the E5 [apulchra_metabolism GitHub repo in the folder here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/baseline_sampling/frag_photos) with the date and frag ID in the photo file name.     
 - Add "yes" to the photograph column in the [Baseline sampling checklist](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/baseline_sampling_checklist.csv) after taking a photo of each fragment. Ensure that all fragments have a photograph.  
 - After all photographs are taken at the end of the day, rinse the bin with fresh water and store for the next sampling.  
+
+Here is an example photograph:  
+
+![adult picture](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/frag_example_photo.jpeg) 
 
 # 2. Sampling biopsies in the lab  
 
@@ -123,7 +127,7 @@ For each fragment (process one genotype at a time, n=4 fragments per genotype) p
 - Place a clean paper towel on the bench top. 
 - Prepare the boxes, tubes, and whirlpack needed. For each fragment, look at the tube numbers identified on the [Sample inventory list](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/sample.id.csv).  
 - There will be n=2 RNA DNA shield tubes and n=2 snap freeze tubes per fragment. There will be n=1 whirlpack per fragment.  
-- Clean the bone cutters by first immersing in 10% bleach, then 70% ethanol, then DI water.  
+- Clean the bone cutters by first immersing in 10% bleach, then 70% ethanol.  
 
 ## Sampling   
 
