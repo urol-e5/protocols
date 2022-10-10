@@ -52,10 +52,11 @@ Use the Orion Mettler Toledo probe to measure pH and conductivity in the center 
 1. Press the power on the Orion meter to turn the probe on
 2. Rinse the tip of the probe with DI water. Careful, this is a glass electrode probe.  
 3. Toggle the "channel" button (F3) to make sure you are viewing pH in **mV**  
-4. Submerge the tip of the probe in each tank to take recording. Do not submerge the probes too far to avoid corrosion or short-circuiting connections. Press "mesaure".  
-5. When the probe settles (will say "ready") record the pH in the lab notebook
-6. Repeat steps 4 & 5 for each tank.
-7. Record temperature at the same time, see below.  
+4. First, take a reading in the seawater table or a tank that is not an official measurement. This is important because the probes need to "warm up".
+5. Submerge the tip of the probe in each tank to take recording. Do not submerge the probes too far to avoid corrosion or short-circuiting connections. Press "mesaure".  
+6. When the probe settles (will say "ready") record the pH in the lab notebook
+7. Repeat steps 4 & 5 for each tank.
+8. Record temperature at the same time, see below.  
 
 ### Conductivity measurements (salinity)
 
