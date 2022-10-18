@@ -9,89 +9,56 @@ projects: E5, Putnam Lab
 
 # Daily Measurement Protocol - Moorea E5  
 
-Original: 20220924   
-Last Revised: 20220929  
+Original: 20221017  
+Revised: 20221017 
+
+Contact Ariana Huffmyer at ashuffmyer@uri.edu with any questions.     
 
 # Overivew  
 
-This protocol lists the daily measurement proceedures for taking daily tank measurements in the E5 Adult Stressor *A. pulchra* project in 2022 in addition to larval projects during the 2022 spawning season.  
+This protocol details the steps to feed corals in tanks for the 2022 Moorea *A. pulchra* metabolism experiment.   Feeding for this experiment will take place three times per week (Mon, Wed, Fri).  
 
-The daily measurements that are included in this protocol are:  
-1. Flow rate (mL / 10 sec)  
-2. pH (mV)  
-3. Conductivity (psu)  
-4. Temperature (C)  
-5. Light (PAR)  
+# Materials Required  
 
-The data sheet will have the following headers:  
+- Coral max food (n=4 doses of 1 mL of coral max food; approx. 0.5 g per dose)  
+- Plastic transfer pipette  
+- Timer or cell phone timer 
+- Scoopula/spatula   
+- Tripour or nalgene beaker  
 
-| Date  | Time | Tank.ID | pH (mV) | Temperature (C) | conductivity |  Flow (mL / 5 sec) initial  |  Flow (mL / 5 sec) final | PAR.center | PAR.q1 | PAR.q2 | PAR.q3 | PAR.q4 |
-| ------------- | ------------- | ------------- | ------------- | ------------ | ------------ |  ------------ |  ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
+# Datasheets Required  
 
-[The daily measurements data sheet can be found here](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/environmental/daily_measurements/daily_measurements.csv).  
+Record the time of feeding on the [schedule datasheet here](https://github.com/urol-e5/apulchra_metabolism/blob/main/schedule.xlsx). Add any notes regarding feeding to the notes column.   
 
-The probe container looks like this:  
+# 1. Prepare food dosage  
 
-![probes](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/dailyprobes.jpeg)
+- Prepare dosages of Coral Max food for each tank in this experiment: Tanks 1, 3, 4, and 5. 
+- Each tank's dose can be added to the labeled 5 mL tubes for each tank.  
+- Using the scoopula/spatula, add food up to the 1 mL black line in each 5 mL tube. This will be approx. 0.5 g of food per tank.  
 
-## 1. Flow Rate  
+![coral food](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/coralmax.jpeg)   
 
-1. Place a 500 mL nalgene bottle or other container with graduation marks under the water drain for each tank. Set a stopwatch for 5 sec and fill the falcon tube/bottle. Record the mL of water in a datasheet for daily measurements ("flow initial".   
+# 2. Shut off water  
 
-2. After all tanks have been measured, adjust water flow if necessary to obtain similar flow in each tank.  
+- Turn off water on the main line to all tanks.  
+- Record the time the water was shut off.  
+- Use a tri pour or nalgene beaker to remove 1-2 L of water to ensure the food does not drain out of the tank during feeding. 
+- Allow the tanks to finish draining any water out of the drain holes. 
 
-3. If flow is changed, measure flow again in all tanks ("flow final").  
+  
+4. Add the food to each respective tank (tanks 1, 3, 4, 5) and stir and break up the chunks with a transfer pipette.  
+5. Start a timer for 1 h. 
+6. After 1 h, turn the water flow back on.  
 
-## 2. pH (mV) and conductivity (psu)   
+# 3. Add food to tanks   
 
-Before the start of the experiment, conduct a Tris calibration as described in the [Putnam Lab protocol](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resources/GSO_Wetlab_Protocols/GSO_Wetlab_Protocols.md#II-Tris-Calibration).  
+- Add the food to each respective tank from the labeled 5 mL tubes with food doses.  
+- Pour the food in the tank. 
+- Use the transfer pipette to stir the food into the water and break up any chunks of food.  
+- Rinse the 5 mL tubes with water and dry to prepare for the next feeding.  
 
-Use the Orion Mettler Toledo probe to measure pH and conductivity in the center of all tanks.  
+# 4. Turn on water    
 
-### pH measurements
-1. Press the power on the Orion meter to turn the probe on
-2. Rinse the tip of the probe with DI water. Careful, this is a glass electrode probe.  
-3. Toggle the "channel" button (F3) to make sure you are viewing pH in **mV**  
-4. First, take a reading in the seawater table or a tank that is not an official measurement. This is important because the probes need to "warm up".
-5. Submerge the tip of the probe in each tank to take recording. Do not submerge the probes too far to avoid corrosion or short-circuiting connections. Press "mesaure".  
-6. When the probe settles (will say "ready") record the pH in the lab notebook
-7. Repeat steps 4 & 5 for each tank.
-8. Record temperature at the same time, see below.  
-
-### Conductivity measurements (salinity)
-
-NOTE: salinity and pH measurements can be done at the same time  
-
-1. Press the power button to turn the probe on
-2. Toggle the "channel" button (F3) to make sure you are viewing salinity (conductivity) in **psu**
-3. Place the probe in the tank. Make sure the whole conductivity cell is submerged in the water The conductivity probe needs to be positioned below water just enough that the cell/opening is submerged. Press "measure".  
-4. When the probe settles (will say "ready") record the salinity in the lab notebook
-5. Repeat steps 3 & 4 for all replicate tanks and head tanks.
-6. Press the power button to turn the probe off. 
-
-## 3. Temperature (C)  
-
-1. Press the "ON/OFF" button to turn the probe on.
-2. Place the tip/metal portion of the probe in the tank.
-3. When the probe settles within 0.1C, record the temperature in the lab notebook
-4. Repeat for all replicate tanks and head tanks.
-NOTE: record all temperature measurements in Celsius. 
-5. Press the "ON/OFF" button to turn the probe off. 
-6. Record temperature at the same time as pH/conductivity.  
-
-## 5. Light (PAR)    
-
-1. Press the power button on the Apogee light sensor. 
-2. Take the plastic cover off of the light sensor.  
-3. Place the sensor in the water facing upwards at the depth of the corals *at the center of the tank*.  
-4. Record the light level. 
-5. Now record the light level in the *center of each of four quandrants in the tank* (see photo below). 
-6. This will result in 5 light measurements in each tank.  
-7. Turn the probe off.  
-
-![light locations](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/lightquads.png)  
-
-## Clean up  
-
-After all measurements, rinse all probes with DI water and then wipe equipment with alcohol wipes to remove any seawater and moisture. Store the pH probe in the solution cap and store all probes and equipment in plastic bags in the lab.  
+- After 1 hour, turn the water back on to the tanks and make sure all tanks have flow.  
+- Repeat 3 times per week.  
 
