@@ -37,11 +37,8 @@ Contents
                 carefully, as they are more fragile than the pans.
     3.  After labeling, burn in the muffle furnace at 450°C for 4-6 h (some papers use 500°C for 4 or 6). 
     	    - Turn on muffle furnace
-	    - If Run light is on, press once to turn off
-	    - Press Menu: screen should read 'NO PROG'
-	    - Press Up arrow: screen should read 'YES PROG'
-	    - Press Run. If blinking, press Run again.  
-            - If for some reason the program has been erased, follow the [(Muffle Furnace Manual)](https://vdocuments.mx/isotemp-programmable-muffle-furnace-650-750-series-650-750-series-instruction-manual.html) to reset the program to run at 450°C for 4-6 h. 
+	    - Press both up and down arrows simultaneously to start run of  450°C for 4h.  
+            - follow the [(Muffle Furnace Manual)](xxx) to reset the program to run at 450°C for 4-6 h. 
     4. 	After, remove from the muffle furnace, place in a glass desiccator and transport to the scale room.
 	*Take care after this point that pans are not touched without gloves on, and that pans are ALWAYS sat on burned aluminum foil on tabletops and in ovens/furnaces/scales*
     5.  Record weight of burned pans on 4-decimal place scale (= “C” in Table 1.) Make sure you are using clean gloves or tweezers to weight the pans.
@@ -86,51 +83,4 @@ Ex. 1 | 4.0 | 4.5632 | 4.8005 | 0.237 | 4.7542 | 0.011575 |
 
     1.  Fitt et al., 2000. Seasonal patterns of tissue biomass and densities of symbiotic dinoflagellates in reef corals and relation to coral bleaching. Limnol. Oceanogr., 45(3), 2000, 677–685
     2.  Schoepf et al., 2013. Coral Energy Reserves and Calcification in a High-CO2 World at Two Temperatures. PLoS ONE 8: e75049
-
-
-
-
-
-
-
-
-
-
-
-
-	  
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	  
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
