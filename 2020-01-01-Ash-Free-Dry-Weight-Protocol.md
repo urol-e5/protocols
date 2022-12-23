@@ -1,16 +1,8 @@
----
-layout: post
-title: Airbrushing
-date: '2020-01-01'
-categories: Protocols
-tags: AFDW, coral, physiology
-projects: E5, Putnam Lab
----
 
-# Standard protocol for ash-free dry weight 
+# Standard protocol for dry tissue biomass and ash-free dry weight 
 
 Original: 20190131    
-Last Revised: 20201215
+Last Revised: 20221223
 
 Contents  
 - [**Materials**](#Materials)    
@@ -20,12 +12,12 @@ Contents
  
 1. <a name="Materials"></a> **Materials**
     - 	Aluminum pans
-    - 	Drying oven (60°C) *(in LTER lab)*
-    - 	Muffle furnace (450°C) *(in LTER lab)*
-    - 	Analytical balance (0.0001 g) *(in LTER lab)*
+    - 	Drying oven (60°C) *(in Gump MCR LTER lab)*
+    - 	Muffle furnace (450°C) *(in Gump MCR LTER lab)*
+    - 	Analytical balance (resolution = 0.0001 g) *(in Gump MCR LTER lab)*
     -  15 mL falcon tubes
     -  5 mL pipet and tips
-    -  Centrifuge with rotors for 15 mL falcon tubes *(in LTER lab)*
+    -  Centrifuge with rotors for 15 mL falcon tubes *(in Gump MCR LTER lab)*
 
 2. <a name="Protocol"></a> **Protocol**
 
