@@ -18,9 +18,10 @@ Contents
     -  Kimwipes
 
 2. <a name="Protocol"></a> **Protocol**
-<img src="https://github.com/urol-e5/protocols/blob/master/images/hema1.png?raw=true" width="200" />   
+<img src="https://github.com/urol-e5/protocols/blob/master/images/hema1.png?raw=true" width="400" />   
 
-**Note: Coverslip is specially designed and weighted and no others can be substituted or the volume of the counting cell is not correct**
+**Note: Coverslip is specially designed and weighted and no others can be substituted or the volume of the counting cell is not correct**   
+
 	- Clean hemacytometer and coverslip with DI water by squirting and wiping with a kimwipe. Place on microscope stand, turn on microscope, and visually inspect to make sure no cells are visible on grid.   
 	- Vortex sample to homogenize.   
 	- Use a glass pipet to mix sample by pipetting up and down, then take a small amount and load one side of hemacytometer until liquid front completely moves across the glass slide. 
@@ -36,7 +37,7 @@ Contents
 	- Multiply # of cells/square by 10^4 and the dilution factor to get cells/mL.   
 	- Multiply by homogenate volume to get total cells.  
 	- Normalize to surface area to get cells/surface area.  
-<img src="https://github.com/urol-e5/protocols/blob/master/images/hema4.png?raw=true"  width="400" />   
+<img src="https://github.com/urol-e5/protocols/blob/master/images/hema4.png?raw=true"  width="500" />   
 <img src="https://github.com/urol-e5/protocols/blob/master/images/hema5.png?raw=true"  width="600" />   
 
 
