@@ -22,10 +22,11 @@ Contents
 
 **Note: Coverslip is specially designed and weighted and no others can be substituted or the volume of the counting cell is not correct**   
 
-- Clean hemacytometer and coverslip with DI water by squirting and wiping with a kimwipe. Place on microscope stand, turn on microscope, and visually inspect to make sure no cells are visible on grid.   
+- Clean hemacytometer and coverslip with DI water by squirting and wiping with a kimwipe. Place on microscope stand, turn on microscope, and visually inspect to make sure no cells are visible on grid. Each grid is divided into nine large squares- keep track of how many you count.
 - Vortex sample to homogenize.   
-- Use a glass pipet to mix sample by pipetting up and down, then take a small amount and load one side of hemacytometer until liquid front completely moves across the glass slide. 
-- Use a glass pipet to take a new mixed aliquot from sample tube as above and fill the other side (do not fill both sides from same pipette fill)
+- Use a glass pipet to mix the sample by pipetting up and down, then take a small amount and load one side of hemacytometer.
+- With the coverslip on the chamber touch the chamber inlet groove place the tip of the pipette at 45° angle to the chamber. Gently release liquid from the pipette. The chamber should fill very quickly with liquid by capillary action, until the liquid front completely moves across the glass slide.  If the filling is slow, or if the liquid front is not even (e.g. when it forms a bubble) start over. 
+- To fill the other side, Again, use a glass pipet to take a new mixed aliquot from sample tube as above and fill the other side. DO NOT fill both sides from same pipette fill.
 - Using 10x or higher objective, count cells in one side of the hemacytometer. Each grid is divided into nine large squares- keep track of how many you count.
 - Count the number of cells in whole squares until you reach at least 100 cells (or count all squares). 
 	
