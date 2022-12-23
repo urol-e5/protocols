@@ -20,11 +20,9 @@ Contents
 2. <a name="Protocol"></a> **Protocol**
 	- Clean hemacytometer and **coverslip** with DI water by squirting and wiping with a kimwipe. Place on microscope stand, turn on microscope, and visually inspect to make sure no cells are visible on grid.
 
-<img src="https://user-images.githubusercontent.com/5198996/209394071-ebeb92ac-8726-4b72-82b8-f64c4856bbea.png" width="50" height="50" />
+<img src="https://user-images.githubusercontent.com/5198996/209394071-ebeb92ac-8726-4b72-82b8-f64c4856bbea.png" width="200" />
 
-![Clean Slide 9 Squares](images/hema1.png)  
-
-	- Vortex sample to homogenize.
+	- Vortex sample to homogenize.   
 	
 	- Use a glass pipet to mix sample by pipetting up and down, then take a small amount and load one side of hemacytometer until liquid front completely moves across the glass slide. 
 	
