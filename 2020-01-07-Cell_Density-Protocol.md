@@ -10,7 +10,7 @@ Contents
 - [**References**](#References)  
  
 1. <a name="Materials"></a> **Materials**
-    - 	Compound light microscrope
+    -  Compound light microscrope
     -  Symbiont cell suspension
     - 	[Hemacytometer with included coverslip e.g.,](https://www.daigger.com/hemacytometers-with-cover-glass?q=EF16034F&gclid=Cj0KCQiAwJWdBhCYARIsAJc4idDEQu9nr_keJ5qXj8kIBKcP5V8v8faQvGJBsRivGAae1m-b9DiVL0gaAjMvEALw_wcB)
     - 	Glass pipet
@@ -18,7 +18,7 @@ Contents
     -  Kimwipes
 
 2. <a name="Protocol"></a> **Protocol**
-<img src="https://user-images.githubusercontent.com/5198996/209394071-ebeb92ac-8726-4b72-82b8-f64c4856bbea.png" width="200" />   
+<img src="https://github.com/urol-e5/protocols/blob/master/images/hema1.png?raw=true" width="200" />   
 
 	- Clean hemacytometer and **coverslip** with DI water by squirting and wiping with a kimwipe. Place on microscope stand, turn on microscope, and visually inspect to make sure no cells are visible on grid.
 	- Vortex sample to homogenize.   
@@ -37,7 +37,8 @@ Contents
 	![Square Volume](images/hema5.png)  
 	- Multiply by homogenate volume to get total cells.  
 	- Normalize to surface area to get cells/surface area.  
-
+<img src="https://github.com/urol-e5/protocols/blob/master/images/hema4.png?raw=true"  width="200" /> 
+<img src="https://github.com/urol-e5/protocols/blob/master/images/hema5.png?raw=true"  width="200" /> 
 **Coverslip is specially designed and weighted and no others can be substituted or the volume of the counting cell is not correct**
 
 4. <a name="References"></a> **References**
