@@ -44,8 +44,6 @@ Contents
 
 
 
-![Clean Slide](images/hema1.jpg)
-![Clean Slide](images/hema1.jpg)
-![Clean Slide](images/hema1.jpg)
-![Clean Slide](images/hema1.jpg)
-![Clean Slide](images/hema1.jpg)
+![Clean Slide 9 Squares](images/hema1.png)
+![Square Size](images/hema2.png)
+![Square Volume](images/hema5.png)
