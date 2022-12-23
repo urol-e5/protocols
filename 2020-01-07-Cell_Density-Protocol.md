@@ -22,12 +22,13 @@ Contents
 
 **Note: Coverslip is specially designed and weighted and no others can be substituted or the volume of the counting cell is not correct**   
 
-	- Clean hemacytometer and coverslip with DI water by squirting and wiping with a kimwipe. Place on microscope stand, turn on microscope, and visually inspect to make sure no cells are visible on grid.   
-	- Vortex sample to homogenize.   
-	- Use a glass pipet to mix sample by pipetting up and down, then take a small amount and load one side of hemacytometer until liquid front completely moves across the glass slide. 
-	- Use a glass pipet to take a new mixed aliquot from sample tube as above and fill the other side (do not fill both sides from same pipette fill)
-	- Using 10x or higher objective, count cells in one side of the hemacytometer. Each grid is divided into nine large squares- keep track of how many you count.
-	- Count the number of cells in whole squares until you reach at least 100 cells (or count all squares). 
+	-Clean hemacytometer and coverslip with DI water by squirting and wiping with a kimwipe. Place on microscope stand, turn on microscope, and visually inspect to make sure no cells are visible on grid.   
+	-Vortex sample to homogenize.   
+	-Use a glass pipet to mix sample by pipetting up and down, then take a small amount and load one side of hemacytometer until liquid front completely moves across the glass slide. 
+	-Use a glass pipet to take a new mixed aliquot from sample tube as above and fill the other side (do not fill both sides from same pipette fill)
+	-Using 10x or higher objective, count cells in one side of the hemacytometer. Each grid is divided into nine large squares- keep track of how many you count.
+	-Count the number of cells in whole squares until you reach at least 100 cells (or count all squares). 
+	
 **Note: counting should be standardized- compare your first run with someone else to ensure equivalent standards for what consitutes a cell vs. debris. For cells falling exactly on the border of two squares, cells on the left and bottom border should be considered inside of the square, while cells on the top and right border should be considered outside.**
 
 	- Repeat with other side of hemacytometer, counting the same number of squares as before and recording the cell count and number of squares.  
