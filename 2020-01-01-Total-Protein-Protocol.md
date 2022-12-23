@@ -1,19 +1,10 @@
----
-layout: post
-title: Total Protein Protocol
-date: '2020-01-01'
-categories: Protocols
-tags: protein, coral, physiology
-projects: E5, Putnam Lab
----
-
 # Total Protein Protocol
 both soluble and insoluble protein  
 
 **Draft Protocol**
 
 Original: 20200101    
-Last Revised: 20200101  
+Last Revised: 20221223 
 
 Contents  
 - [**Materials**](#Materials)    
