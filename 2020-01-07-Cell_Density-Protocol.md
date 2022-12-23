@@ -28,11 +28,13 @@ Contents
 	- Use a glass pipet to take a new mixed aliquot from sample tube as above and fill the other side (do not fill both sides from same pipette fill)
 	- Using 10x or higher objective, count cells in one side of the hemacytometer. Each grid is divided into nine large squares- keep track of how many you count.
 	- Count the number of cells in whole squares until you reach at least 100 cells (or count all squares). 
-	- *Note: counting should be standardized- compare your first run with someone else to ensure equivalent standards for what consitutes a cell vs. debris. For cells falling exactly on the border of two squares, cells on the left and bottom border should be considered inside of the square, while cells on the top and right border should be considered outside.*  
+**Note: counting should be standardized- compare your first run with someone else to ensure equivalent standards for what consitutes a cell vs. debris. For cells falling exactly on the border of two squares, cells on the left and bottom border should be considered inside of the square, while cells on the top and right border should be considered outside.**
+
 	- Repeat with other side of hemacytometer, counting the same number of squares as before and recording the cell count and number of squares.  
 	- Clean the hemacytometer and coverslip as before with DI water. Clean glass pipet with a tube of DI water.  
 	- Repeat above steps twice more for 6 total counts.   
-	- *Note: Each count should count the same number of the nine large squares. For example, if the first count for sample X requires 3 squares to reach 100 squares, 3 squares should be counted on all subsequent counts for sample X.*  
+**Note: Each count should count the same number of the nine large squares. For example, if the first count for sample X requires 3 squares to reach 100 squares, 3 squares should be counted on all subsequent counts for sample X.**
+
 	- Make sure average # of cells/square is consistent (calculate coefficient of variation of counts in a sample- should be less than 10%).  
 	- Multiply # of cells/square by 10^4 and the dilution factor to get cells/mL.   
 	- Multiply by homogenate volume to get total cells.  
