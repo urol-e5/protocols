@@ -34,6 +34,7 @@ Contents
 - Repeat with other side of hemacytometer, counting the same number of squares as before and recording the cell count and number of squares.  
 - Clean the hemacytometer and coverslip as before with DI water. Clean glass pipet with a tube of DI water.  
 - Repeat above steps twice more for 6 total counts.   
+   
 **Note: Each count should count the same number of the nine large squares. For example, if the first count for sample X requires 3 squares to reach 100 squares, 3 squares should be counted on all subsequent counts for sample X.**
 
 - Make sure average # of cells/square is consistent (calculate coefficient of variation of counts in a sample. It should be less than 10%).  
