@@ -68,8 +68,10 @@ Calculations | | | | = D-C | | = (D-F)/B |
 Ex. 1 | 4.0 | 4.5632 | 4.8005 | 0.237 | 4.7542 | 0.011575 |
 
 ## Muffle furnace
-![muffle1](images/muffle1.jpg)
-![muffle2](images/muffle2.jpg)
+![Drying Oven](x)
+![Muffle Furnace](x)
+![Centrifuge](x)
+![Analytical Balance](x)
 
 4. <a name="References"></a> **References**
 
