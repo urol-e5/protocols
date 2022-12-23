@@ -8,7 +8,7 @@ projects: E5, Putnam Lab
 ---
 
 # Total Protein Protocol
-both soluble and insolube protein  
+both soluble and insoluble protein  
 
 **Draft Protocol**
 
@@ -36,23 +36,26 @@ Contents
 2. <a name="Protocol"></a> **Protocol** 
 
 [Pierce BCA Protein Assay Kit](/Users/hputnam/MyProjects/urol-e5/protocols/images/Pierce_BCA_Protein_Assay_UG.pdf). 
-
+![alt text here](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/images/BCA_protocol.png)
+ 
 **Adult Tissue Sample Preparation for Soluble and Insoluble Protein from Holobiont**  
 
-**Adult Tissue Sample Preparation for Insoluble Protein from Host**
 1. Thaw a 500 μL aliquot of tissue homogenate.  
 2. Vortex to re-suspend the symbiont cell pellet.   
-5. Add 10 μL of 1M NaOH (pH should be ~10) to the tube.  Experiments may be needed prior to use to determine if volume is appropriate for species of choice.
+5. Add 10 μL of 1M NaOH (pH should be ~10) in the tube.  Experiments may be needed prior to use to determine if volume is appropriate for species of choice.
 6. Pipette a very small amount of sample onto pH paper to confirm the pH ~10. 
 7. Incubate the tube at 50&deg;C for 4 hours flicking to mix throughout to solublize protein.  
 8. Add 280 μL of 0.1M HCl to the tube to neutralize the sample. Add this volume in small amounts and continue to test the pH of the sample using pH paper. pH needs to be at 7.0 to move onto the next steps.  
 9. **_It is critical to record exactly how much volume of NaOH and HCl was added_**
 
 **Adult Tissue Sample Preparation for Soluble Protein from Host**  
+1. Thaw the 500 μL aliquot of host only supernatant.   
+2. Add 10 μL of 1M NaOH (pH should be ~10) in the tube.  Experiments may be needed prior to use to determine if volume is appropriate for species of choice.
+6. Pipette a very small amount of sample onto pH paper to confirm the pH ~10. 
+7. Incubate the tube at 50&deg;C for 4 hours flicking to mix throughout to solublize protein.  
+8. Add 280 μL of 0.1M HCl to the tube to neutralize the sample. Add this volume in small amounts and continue to test the pH of the sample using pH paper. pH needs to be at 7.0 to move onto the next steps.  
+9. **_It is critical to record exactly how much volume of NaOH and HCl was added_**
 
-![alt text here](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/images/BCA_protocol.png)
-
-1. Thaw the 500 μL aliquot of host only supernatant.    
 
 **Preparation of Diluted Albumin (BSA) Standards**    
 1. Dilute the contents of one Albumin Standard (BSA) ampule into several clean vials, preferably using the same diluent as the samples.
