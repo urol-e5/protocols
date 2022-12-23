@@ -20,6 +20,7 @@ Contents
 2. <a name="Protocol"></a> **Protocol**
 <img src="https://github.com/urol-e5/protocols/blob/master/images/hema1.png?raw=true" width="200" />   
 
+**Note: Coverslip is specially designed and weighted and no others can be substituted or the volume of the counting cell is not correct**
 	- Clean hemacytometer and coverslip with DI water by squirting and wiping with a kimwipe. Place on microscope stand, turn on microscope, and visually inspect to make sure no cells are visible on grid.   
 	- Vortex sample to homogenize.   
 	- Use a glass pipet to mix sample by pipetting up and down, then take a small amount and load one side of hemacytometer until liquid front completely moves across the glass slide. 
@@ -32,14 +33,12 @@ Contents
 	- Repeat above steps twice more for 6 total counts.   
 	- *Note: Each count should count the same number of the nine large squares. For example, if the first count for sample X requires 3 squares to reach 100 squares, 3 squares should be counted on all subsequent counts for sample X.*  
 	- Make sure average # of cells/square is consistent (calculate coefficient of variation of counts in a sample- should be less than 10%).  
-	- Multiply # of cells/square by 10^4 and the dilution factor to get cells/mL.  
-	![Square Size](images/hema2.png)  
-	![Square Volume](images/hema5.png)  
+	- Multiply # of cells/square by 10^4 and the dilution factor to get cells/mL.   
 	- Multiply by homogenate volume to get total cells.  
 	- Normalize to surface area to get cells/surface area.  
-<img src="https://github.com/urol-e5/protocols/blob/master/images/hema4.png?raw=true"  width="400" /> 
-<img src="https://github.com/urol-e5/protocols/blob/master/images/hema5.png?raw=true"  width="600" /> 
-**Coverslip is specially designed and weighted and no others can be substituted or the volume of the counting cell is not correct**
+<img src="https://github.com/urol-e5/protocols/blob/master/images/hema4.png?raw=true"  width="400" />   
+<img src="https://github.com/urol-e5/protocols/blob/master/images/hema5.png?raw=true"  width="600" />   
+
 
 4. <a name="References"></a> **References**
 
