@@ -17,18 +17,18 @@ Contents
 - [**References**](#References)  
  
 1. <a name="Materials"></a> **Materials**
-    -     Dry shipper
-    -     -40C freezer (Biocode)
-    -     Physiology samples
-    -     Water table
-    -  Turbinaria
-    -  Toothbrushes
-    -  Waterproof paper
-    -  Zipties
-    -  Sharpies
-    -  Scissors
-    -  Tinfoil
-    -  Drying oven - (LTER lab, Heratherm OGH180, Thermo Scientific)
+    - Dry shipper
+    - -40C freezer (Biocode)
+    - Physiology samples
+    - Water table
+    - Turbinaria
+    - Toothbrushes
+    - Waterproof paper
+    - Zipties
+    - Sharpies
+    - Scissors
+    - Tinfoil
+    - Drying oven - (LTER lab, Heratherm OGH180, Thermo Scientific)
 
 2. <a name="Protocol"></a> **Protocol**
     -     Molucular sample processing
@@ -55,52 +55,3 @@ Contents
         -  Place the pouches upright in the drying oven (LTER lab). These pouches should slide neatly into the grating of the drying oven to hold them upright.
         -  The drying oven should be set to 80C.
 4. <a name="References"></a> **References**
-
-    1.  See UCSB protocol
-
-
-
-
-
-
-
-
-
-
-
-
-      
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
