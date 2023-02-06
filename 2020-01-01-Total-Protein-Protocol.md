@@ -41,7 +41,7 @@ Contents
 
 **Adult Tissue Sample Preparation for Soluble Protein from Host**  
 1. Thaw the 500 μL aliquot of host only supernatant.   
-2. Follow the aliquoting instrucions in the e5 downstream analysis section of the [Airbrushin Protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Airbrushing.md)
+2. Follow the aliquoting instructions in the e5 downstream analysis section of the [Airbrushing Protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Airbrushing.md)
 
 **Preparation of Diluted Albumin (BSA) Standards**    
 1. Dilute the contents of one Albumin Standard (BSA) ampule into several clean vials, preferably using the same diluent as the samples.
