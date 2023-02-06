@@ -39,14 +39,9 @@ Contents
 8. Add 280 μL of 0.1M HCl to the tube to neutralize the sample. Add this volume in small amounts and continue to test the pH of the sample using pH paper. pH needs to be at 7.0 to move onto the next steps.  
 9. **_It is critical to record exactly how much volume of NaOH and HCl was added_**
 
-**Adult Tissue Sample Preparation for Soluble Protein from Host**  
+**Adult Tissue Sample Preparation for Insoluble Protein from Host**  
 1. Thaw the 500 μL aliquot of host only supernatant.   
-2. Add 10 μL of 1M NaOH (pH should be ~10) in the tube.  Experiments may be needed prior to use to determine if volume is appropriate for species of choice.
-6. Pipette a very small amount of sample onto pH paper to confirm the pH ~10. 
-7. Incubate the tube at 50&deg;C for 4 hours flicking to mix throughout to solublize protein.  
-8. Add 280 μL of 0.1M HCl to the tube to neutralize the sample. Add this volume in small amounts and continue to test the pH of the sample using pH paper. pH needs to be at 7.0 to move onto the next steps.  
-9. **_It is critical to record exactly how much volume of NaOH and HCl was added_**
-
+2. Follow the aliquoting instrucions in the e5 downstream analysis section of the [Airbrushin Protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Airbrushing.md)
 
 **Preparation of Diluted Albumin (BSA) Standards**    
 1. Dilute the contents of one Albumin Standard (BSA) ampule into several clean vials, preferably using the same diluent as the samples.
